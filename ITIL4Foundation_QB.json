@@ -1,0 +1,3322 @@
+{
+   "1": {
+      "Q": "Which practice includes an intention to manage confidentiality, integrity and availability risks?",
+      "A": "Information security management",
+      "B": "Continual advancement",
+      "C": "Monitoring and event administration",
+      "D": "Service level oversight",
+      "ANS": "A"
+   },
+   "2": {
+      "Q": "What can determine if a service is \"fit for purpose\"?",
+      "A": "Availability",
+      "B": "Warranty / Assurance",
+      "C": "Outcome / output",
+      "D": "Utility",
+      "ANS": "D"
+   },
+   "3": {
+      "Q": "What term can convey whether a service will satisfy availability, capacity and security requirements?",
+      "A": "Outcomes / Consequences",
+      "B": "Value / Worth",
+      "C": "Utility",
+      "D": "Warranty",
+      "ANS": "D"
+   },
+   "4": {
+      "Q": "Which practice is MOST possible to help from the usage of chatbots?",
+      "A": "Service level control",
+      "B": "Transformation enablement",
+      "C": "Continual advancement",
+      "D": "Service desk",
+      "ANS": "D"
+   },
+   "5": {
+      "Q": "Which value chain activity provides a communicated insight into the current status and direction for all products and services?",
+      "A": "Plan",
+      "B": "Enhance",
+      "C": "Design and change",
+      "D": "Deliver and help",
+      "ANS": "A"
+   },
+   "6": {
+      "Q": "The purpose of the supplier management practice is to guarantee that the organization's suppliers and their [?] are managed appropriately to support the seamless provision of quality products and services",
+      "A": "expenses",
+      "B": "customers",
+      "C": "value / worth",
+      "D": "performances",
+      "ANS": "D"
+   },
+   "7": {
+      "Q": "What is any component that needs to be managed to provide an IT service?",
+      "A": "A service proposal",
+      "B": "A configuration item / CI",
+      "C": "A happening",
+      "D": "An IT investment",
+      "ANS": "B"
+   },
+   "8": {
+      "Q": "What is known error?",
+      "A": "An unexpected interruption to service. or decline in the grade of a service",
+      "B": "A reason, or potential cause, for one or more incidents",
+      "C": "A problem that has been analysed and has not been resolved",
+      "D": "Any modification of condition that has value for the control of a service or other configuration item (CI)",
+      "ANS": "C"
+   },
+   "9": {
+      "Q": "What is service management?",
+      "A": "An institution performs actions to provide outcomes and benefits to its clients.",
+      "B": "A definition of services based on yields which meet the needs of a target client party",
+      "C": "A means of promoting value co-creation by promoting results that consumers want to achieve",
+      "D": "A set of specialized organizational capabilities for enabling value for customers in the form of services",
+      "ANS": "D"
+   },
+   "10": {
+      "Q": "Which is the purpose of the 'change control/change enablement' practice?",
+      "A": "Make new and changed services obtainable for usage",
+      "B": "Ensure that risks have been properly assessed",
+      "C": "Record and writing desired changes of the condition",
+      "D": "Plan and control the complete recycling of all IT assets",
+      "ANS": "B"
+   },
+   "11": {
+      "Q": "Which is the goal of release management?",
+      "A": "To protect the institution's data",
+      "B": "To handle user-initiated favour requests.",
+      "C": "To make fresh and changed services available for use",
+      "D": "To drive hardware and software to live circumstances",
+      "ANS": "C"
+   },
+   "12": {
+      "Q": "The use of [?] should support, not substitute, what is observed when using the \"start form you are\" guiding principle.",
+      "A": "measurement",
+      "B": "tools",
+      "C": "projects",
+      "D": "method",
+      "ANS": "A"
+   },
+   "13": {
+      "Q": "Which practice ensures that any addition, change, or removal of anything that impacts services is assessed and authorized?",
+      "A": "Deployment control",
+      "B": "Release governance",
+      "C": "Change control / change enablement",
+      "D": "Service configuration oversight",
+      "ANS": "C"
+   },
+   "14": {
+      "Q": "What difference in size and complexity utilizes functions to reach its goals?",
+      "A": "A chance",
+      "B": "An organization",
+      "C": "A method",
+      "D": "An output",
+      "ANS": "B"
+   },
+   "15": {
+      "Q": "The service desk should be the entry pinpoint and single pinpoint of contact for the [?] with all its users.",
+      "A": "Service buyer",
+      "B": "Service provider",
+      "C": "Service shopper",
+      "D": "Supplier",
+      "ANS": "B"
+   },
+   "16": {
+      "Q": "Which is an action of the 'problem management?",
+      "A": "Restoration of regular service operation as fast as feasible",
+      "B": "Prioritization of problems based on the risk that they pose",
+      "C": "Authorization of modifications to determine the reason for problems",
+      "D": "Resolution of incidents in a time that meets client anticipations",
+      "ANS": "B"
+   },
+   "17": {
+      "Q": "Which information about handling incidents is CORRECT?",
+      "A": "Low impact incidents should be fixed efficiently. making logging unneeded",
+      "B": "The 'incident management' should utilise one process anyway of the impact of the incident",
+      "C": "Low impact incidents should be resolved efficiently, so the resource required is lessened",
+      "D": "Incidents with the lowest result should be picked sooner",
+      "ANS": "C"
+   },
+   "18": {
+      "Q": "Which information about the service value chain is CORRECT?",
+      "A": "The service value chain transforms value into market needs",
+      "B": "Each value chain activity uses different combinations of practices to convert inputs into outputs",
+      "C": "Each value chain activity places a need for aid from an outer supplier",
+      "D": "The service value chain employs value streams to represent a mixture of consumers and providers",
+      "ANS": "B"
+   },
+   "19": {
+      "Q": "Which TWO circumstances should the ITIL guiding principles be considered? \n1. In every initiative \n2. In relationships with all stakeholders \n3. Only in detailed initiatives where the guide is relevant \n4. Only in specific stakeholder connections where the direction is appropriate",
+      "A": "1 and 2",
+      "B": "2 and 3",
+      "C": "3 and 4",
+      "D": "1 and 4",
+      "ANS": "A"
+   },
+   "20": {
+      "Q": "Where are the detailed components of the needed performance outcomes of service described?",
+      "A": "Service level agreements",
+      "B": "Service proposals",
+      "C": "Service elements",
+      "D": "Service offerings",
+      "ANS": "A"
+   },
+   "21": {
+      "Q": "What depicts how components + activities function together to enable value creation?",
+      "A": "The ITIL service value system",
+      "B": "The ITIL guiding codes",
+      "C": "The four measurements of service management",
+      "D": "A service connection",
+      "ANS": "A"
+   },
+   "22": {
+      "Q": "Which two practices interact and cooperate the MOST with the service desk practice?",
+      "A": "Incident management and service request management",
+      "B": "Service request control and deployment administration",
+      "C": "Deployment administration and change control / change enablement",
+      "D": "Change control / change enablement and incident governance",
+      "ANS": "A"
+   },
+   "23": {
+      "Q": "Which will support handling incidents more quickly?",
+      "A": "Target solution times",
+      "B": "Escalating all incidents to help teams",
+      "C": "Collaboration between teams",
+      "D": "Detailed steps for incident analysis",
+      "ANS": "C"
+   },
+   "24": {
+      "Q": "Which is a suggestion of the guiding principle 'think and work holistically?",
+      "A": "Conduct a study of current service management techniques and decide what to save and what to dump",
+      "B": "Review how an advancement initiative can be organized into smaller, manageable units that can be",
+      "C": "Review service administration practices and remove any unnecessary complicatedness",
+      "D": "Use the four dimensions of service management to assure coordination of all aspects of an",
+      "ANS": "D"
+   },
+   "25": {
+      "Q": "What part of 'service level management' questions service clients about their work and how technology supports them?",
+      "A": "Customer engagement",
+      "B": "Operating metrics",
+      "C": "Enterprise metrics",
+      "D": "Client feedback",
+      "ANS": "A"
+   },
+   "26": {
+      "Q": "Which is an action of the 'incident management' practice?",
+      "A": "Assessing and prioritizing advancement chances",
+      "B": "Performing service checks with clients",
+      "C": "Providing good-quality updates when expected",
+      "D": "Automating service requests to the most significant extent feasible",
+      "ANS": "C"
+   },
+   "27": {
+      "Q": "What should be thought part of the 'partners and suppliers'?",
+      "A": "The level of integration and formality involved in the relationships between organizations",
+      "B": "The actions workflows, management and procedures required to complete the approved objectives",
+      "C": "The data was made, handled and used in the period of service provision and consumption",
+      "D": "The needed talents and competencies of teams and personal members of the alliance",
+      "ANS": "A"
+   },
+   "28": {
+      "Q": "When preparing 'continual improvement'. Which strategy for evaluating the current state of a service is CORRECT?",
+      "A": "An alliance should always use one technique to guarantee metrics are uniform",
+      "B": "An alliance should always use a stability, weakness, opportunity and threat (SWOT) analysis",
+      "C": "An organization should always develop competencies in methodologies and techniques that will meet",
+      "D": "An alliance should still employ an system that incorporates Lean, Agile and DevOps methodologies",
+      "ANS": "C"
+   },
+   "29": {
+      "Q": "Which practice concerns the control of vulnerabilities that were not recognised before the service moved live?",
+      "A": "Service request administration",
+      "B": "Problem management",
+      "C": "Change control / change enablement",
+      "D": "Service level oversight",
+      "ANS": "B"
+   },
+   "30": {
+      "Q": "Which of the following action completes a CORRECT service request?",
+      "A": "They should be complicated and painstaking.",
+      "B": "They should be well-known and proven.",
+      "C": "They should include incident processing.",
+      "D": "They should be short and easy.",
+      "ANS": "B"
+   },
+   "31": {
+      "Q": "Which is managed as a service request?",
+      "A": "A research to determine the causality of an incident",
+      "B": "A compliment about an IT support team",
+      "C": "The defeat of an IT service",
+      "D": "A trouble change to execute a safety patch",
+      "ANS": "B"
+   },
+   "32": {
+      "Q": "Which of the following concerns buyer and user experience?",
+      "A": "Cooperate and boost",
+      "B": "Focus on value",
+      "C": "Begin where you are",
+      "D": "Keep it easy and useful",
+      "ANS": "B"
+   },
+   "33": {
+      "Q": "Which practice suggests the usage of event-based surveys to collect feedback from buyers?",
+      "A": "Service level management",
+      "B": "Change control / change enablement",
+      "C": "Service request governance",
+      "D": "Problem administration",
+      "ANS": "A"
+   },
+   "34": {
+      "Q": "What can support lower opposition to a scheduled improvement using the guiding principle 'collaborate and promote visibility'?",
+      "A": "Restricting data about the advancement to vital stakeholders only",
+      "B": "Increasing collaboration and visibility for the improvement",
+      "C": "Involving buyers after all planning has been conducted",
+      "D": "Engaging every user group in the same manner. with the same touch",
+      "ANS": "B"
+   },
+   "35": {
+      "Q": "Which is the BEST sample of a standard change?",
+      "A": "The review and approval of a change ordered by a buyer",
+      "B": "The implementation of a required software patch in reply to a seller protection issue",
+      "C": "The installation of a software application in response to a service request",
+      "D": "The replacement of a part in reaction to a significant incident",
+      "ANS": "C"
+   },
+   "36": {
+      "Q": "Which of the following is an operating model for an organization?",
+      "A": "The four measurements of service management",
+      "B": "The service value chain",
+      "C": "The ITIL coaching principles",
+      "D": "Continual advancement",
+      "ANS": "B"
+   },
+   "37": {
+      "Q": "When is the most earlier that a workaround can be written in 'problem management?",
+      "A": "After the pm has been logged",
+      "B": "After the pm has been proven",
+      "C": "After the pm has been evaluated",
+      "D": "After the pm has been solved",
+      "ANS": "A"
+   },
+   "38": {
+      "Q": "Which action is an aspect of the 'continual improvement practice?",
+      "A": "Identifying the reason for incidents and suggesting related modifications",
+      "B": "Authorizing shifts to execute improvements",
+      "C": "Logging and control incidents that result in progress opportunities",
+      "D": "Making business cases for improvement action",
+      "ANS": "D"
+   },
+   "39": {
+      "Q": "Which ITIL guiding principle advises employing current services, procedures and means when enhancing services?",
+      "A": "Progress iteratively with feedback",
+      "B": "Keep it easy and useful",
+      "C": "Start where you are",
+      "D": "Focus on importance",
+      "ANS": "C"
+   },
+   "40": {
+      "Q": "Which practice has a goal that assures that risks have been adequately assessed?",
+      "A": "Service configuration governance",
+      "B": "Problem administration",
+      "C": "Service level oversight",
+      "D": "Change control / change enablement",
+      "ANS": "D"
+   },
+   "41": {
+      "Q": "When should a complete risk examination and approval be taken for a standard change?",
+      "A": "Each time the standard change is executed",
+      "B": "When the procedure for the standard change is created",
+      "C": "At least onetime a year",
+      "D": "When an crisis change is asked",
+      "ANS": "B"
+   },
+   "42": {
+      "Q": "Which of the following about emergency changes is Right?",
+      "A": "The examination of emergency changes can be eradicated to execute the change fast.",
+      "B": "The assessment and authorization of emergency changes is expedited to ensure they can be",
+      "C": "Emergency changes should be approved and enforced as service requests",
+      "D": "Emergency changes must be thoroughly recorded before approval and execution",
+      "ANS": "B"
+   },
+   "43": {
+      "Q": "Which practice harmonises the category, ownership and touch of service requests and incidents?",
+      "A": "Supplier control",
+      "B": "Service desk",
+      "C": "Problem governance",
+      "D": "Relationship administration",
+      "ANS": "B"
+   },
+   "44": {
+      "Q": "What of the following correctly express warranty?",
+      "A": "Assurance that a product or service will satisfy consented requirements",
+      "B": "The amount of cash paid on a typical action or resource",
+      "C": "The functionality delivered by a product or service to satisfy a distinct demand",
+      "D": "The perceived concessions, suitability and importance of something",
+      "ANS": "A"
+   },
+   "45": {
+      "Q": "Which of the following is a portion of service provision?",
+      "A": "The management of resources configured to deliver the service",
+      "B": "The management of resources required to use the service",
+      "C": "The collection of one or more services founded on one or more yields",
+      "D": "The joint actions committed to guarantee continual worth co-creation",
+      "ANS": "A"
+   },
+   "46": {
+      "Q": "Which of the following about a 'continual improvement register' is Valid?",
+      "A": "It should be addressed at the aged group of the company",
+      "B": "It should be utilised to catch user request",
+      "C": "There should solely be one for the entire company",
+      "D": "It should be re-prioritized as ideas are documented",
+      "ANS": "D"
+   },
+   "47": {
+      "Q": "What are 'engage', 'plan' and 'improve'?",
+      "A": "Service value chain activities",
+      "B": "Service level control",
+      "C": "Service value chain intakes",
+      "D": "Change control / change enablement",
+      "ANS": "A"
+   },
+   "48": {
+      "Q": "Which of the following regarding outcomes is Accurate?",
+      "A": "An outcome can be enabled by more than one output",
+      "B": "Outcomes explains how the service functions",
+      "C": "One or more outcomes can facilitate an output",
+      "D": "An outcome is a real or intangible move",
+      "ANS": "A"
+   },
+   "49": {
+      "Q": "Which of the following regarding service desks is Proper?",
+      "A": "The service desk should work in close collaboration with support and development teams",
+      "B": "The service desk should depend on self-service outlets instead of escalation to help groups",
+      "C": "The service desk should stay secret from specialised help groups",
+      "D": "The service desk should pass all technological matters to help and product teams",
+      "ANS": "A"
+   },
+   "50": {
+      "Q": "Which practice updates data linking to symptoms and business influence?",
+      "A": "Service level control",
+      "B": "Change control / change enablement",
+      "C": "Service request administration",
+      "D": "Incident management",
+      "ANS": "D"
+   },
+   "51": {
+      "Q": "Which is contained in the goal of the 'design and transition' value chain action?",
+      "A": "Ensuring that service parts are functional when needed",
+      "B": "Providing clearness and sound stakeholder associations",
+      "C": "Backing services according to specifications",
+      "D": "Continually meeting stakeholder expectations for costs",
+      "ANS": "D"
+   },
+   "52": {
+      "Q": "Which practice aims to help the service's quality by managing all agreed user-initiated service requests?",
+      "A": "Change control / change enablement",
+      "B": "IT purchase management",
+      "C": "Service table",
+      "D": "Service request management",
+      "ANS": "D"
+   },
+   "53": {
+      "Q": "Which is NOT a part of the service value system (SVS)?",
+      "A": "Practices",
+      "B": "The guiding principles",
+      "C": "Governance",
+      "D": "The four measurements of service management",
+      "ANS": "D"
+   },
+   "54": {
+      "Q": "What is the causality, or potential causality, of one or more incidents'?",
+      "A": "Change / Modification",
+      "B": "Possibility",
+      "C": "Known mistake",
+      "D": "Problem",
+      "ANS": "D"
+   },
+   "55": {
+      "Q": "Which of the following suggests eliminating actions that do not contribute to value outcome?",
+      "A": "Start from you are",
+      "B": "Cooperate and facilitate visibility",
+      "C": "Keep it simple and practical",
+      "D": "Optimize and auto",
+      "ANS": "C"
+   },
+   "56": {
+      "Q": "What is the moment to validate the effectiveness of the workaround?",
+      "A": "When the workaround is used",
+      "B": "When the problem is solved",
+      "C": "When the workaround evolves a known mistake",
+      "D": "When the problem is ordered",
+      "ANS": "A"
+   },
+   "57": {
+      "Q": "Identify the missing word in the following sentence. A change is described as adding, modifying, or removing anything that could directly or indirectly affect [?]",
+      "A": "acquisitions",
+      "B": "worths",
+      "C": "components",
+      "D": "services",
+      "ANS": "D"
+   },
+   "58": {
+      "Q": "Which dimension assumes how knowledge should be shielded?",
+      "A": "Organizations and individuals",
+      "B": "Partners and vendors",
+      "C": "Information and technology",
+      "D": "Value streams and procedures",
+      "ANS": "C"
+   },
+   "59": {
+      "Q": "What is a mechanism for promoting value co-creation by enabling outcomes that customers want to achieve without managing typical costs and risks?",
+      "A": "Service administration",
+      "B": "Continual advancement",
+      "C": "A service",
+      "D": "An IT investment",
+      "ANS": "C"
+   },
+   "60": {
+      "Q": "Identify the missing words in the following sentence. The control of information security incidents usually requires [?]",
+      "A": "Rapid escalation",
+      "B": "Professional teams",
+      "C": "A separate process",
+      "D": "Third-party aid",
+      "ANS": "C"
+   },
+   "61": {
+      "Q": "Which of the following describe what ITIL guiding principles are used for?",
+      "A": "To help an organization make gd decisions",
+      "B": "To lead and manage an organization",
+      "C": "To determine actions that an organization must achieve to supply a helpful service",
+      "D": "To guarantee an organization's execution continually satisfies stakeholders' anticipations",
+      "ANS": "A"
+   },
+   "62": {
+      "Q": "Which is the Valid way to handle a big improvement endeavour as less iterations?",
+      "A": "Each iteration should be planned before beginning the initiative and executed without feedback",
+      "B": "Feedback should only be considered when one iteration cannot to satisfy its intent",
+      "C": "Feedback should be decreased for big improvements as it is doubtful that situation will change",
+      "D": "Each iteration should be continually re-evaluated based on feedback",
+      "ANS": "D"
+   },
+   "63": {
+      "Q": "What is the goal of the 'deployment management'?",
+      "A": "To assure services reach consented and desired commission",
+      "B": "To make fresh or revised services available for use",
+      "C": "To move new or changed components to live environments",
+      "D": "To establish explicit business-based targets for service commission",
+      "ANS": "C"
+   },
+   "64": {
+      "Q": "Which of the following is service request?",
+      "A": "Requesting a workaround for a case",
+      "B": "Requesting information about how to create a document",
+      "C": "Requesting an enhancement to a software",
+      "D": "Requesting analysis of a downgraded service",
+      "ANS": "B"
+   },
+   "65": {
+      "Q": "What is a suggestion for the 'focus on value'?",
+      "A": "Make the emphasis on the value a commitment of the administration.",
+      "B": "Focus on value of fresh and influential tasks first.",
+      "C": "Focus on value for the service sellers first.",
+      "D": "Focus on value at every step of the improvement.",
+      "ANS": "D"
+   },
+   "66": {
+      "Q": "Which guiding principle suggests formalizing and streamlining manual jobs?",
+      "A": "Optimize and automate",
+      "B": "Cooperate and facilitate visibility",
+      "C": "Focus on worth",
+      "D": "Judge and operate holistically",
+      "ANS": "A"
+   },
+   "67": {
+      "Q": "Which is a crucial requirement for a victorious service level agreement?",
+      "A": "It should be written in the lawful language.",
+      "B": "It should be simply written and easy to understand",
+      "C": "It should be based on the service sellers' opinion of the courtesy",
+      "D": "It should relate to easy functioning metrics",
+      "ANS": "B"
+   },
+   "68": {
+      "Q": "How does a service client donate to the deduction of risk?",
+      "A": "By spending for the service",
+      "B": "By controlling server hardware and components",
+      "C": "By communicating constraints",
+      "D": "By manipulating team availability",
+      "ANS": "C"
+   },
+   "69": {
+      "Q": "What supports diagnosis and solving an easy incident?",
+      "A": "Quick escalation",
+      "B": "Formation of a transient unit",
+      "C": "The use of scripts",
+      "D": "Problem ordering and prioritization",
+      "ANS": "C"
+   },
+   "70": {
+      "Q": "Which of the following has a goal of decreasing the probability of incidents?",
+      "A": "Change control / change enablement",
+      "B": "Continual advancement",
+      "C": "Problem management",
+      "D": "Service table",
+      "ANS": "C"
+   },
+   "71": {
+      "Q": "Which of the following service level metrics is Most helpful in gauging user experience?",
+      "A": "One system-based metrics",
+      "B": "Metrics for the ratio of up period of a service",
+      "C": "Functional metrics",
+      "D": "Metrics linked to defined outcomes",
+      "ANS": "D"
+   },
+   "72": {
+      "Q": "What are the MOST essential skills needed by service desk staff?",
+      "A": "Incident analysis skills",
+      "B": "Technological talents skills",
+      "C": "Problem resolution and explanation skills",
+      "D": "Supplier control skills",
+      "ANS": "A"
+   },
+   "73": {
+      "Q": "Which TWO information regarding an organization's culture is CORRECT? \n1. It is created from shared values founded on how it takes out its job \n2. It is defined by the sort of technology used to help services \n3. It should be based on the culture of forthcoming sellers \n4. It should be based on the goals of the organization",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "B"
+   },
+   "74": {
+      "Q": "What is a suitable moment that a change request be raised to fix a problem?",
+      "A": "As soon as a resolution for the problem has been recognised",
+      "B": "As soon as a workaround for the situation has been determinated",
+      "C": "As soon as the investigation of the commonness and consequence of incidents explains the change",
+      "D": "As soon as the analysis of cost, risks and benefits justify the change",
+      "ANS": "D"
+   },
+   "75": {
+      "Q": "Which principle benefits to guarantee that more helpful information is available for decision-making?",
+      "A": "Keep it easy and helpful",
+      "B": "Judge and operate holistically",
+      "C": "Optimize and auto",
+      "D": "Collaborate and promote visibility",
+      "ANS": "D"
+   },
+   "76": {
+      "Q": "Which of the following contains a goal of observing a service to document selected changes of state recognised as events?",
+      "A": "Information security governance",
+      "B": "Monitoring and event management",
+      "C": "Incident administration",
+      "D": "Change control / change enablement",
+      "ANS": "B"
+   },
+   "77": {
+      "Q": "Which is a standard change?",
+      "A": "A change that ought to be prepared, evaluated and approved following a prescribed process",
+      "B": "A change that is typically implemented as a service request",
+      "C": "A high-risk shift that needs a extremely detailed inspection",
+      "D": "A change that must be executed as momentarily as possible",
+      "ANS": "B"
+   },
+   "78": {
+      "Q": "How does info about problems and known errors donate to incident control?",
+      "A": "It enables quick and efficient diagnosis of incidents",
+      "B": "It terminates the requirement for routine buyer updates",
+      "C": "It dismisses the essential of partnership during incident handling",
+      "D": "It allows the examination again of known errors",
+      "ANS": "A"
+   },
+   "79": {
+      "Q": "Which of the following owns and controls issues, enquiries and user requests?",
+      "A": "Incident governance",
+      "B": "Service desk",
+      "C": "Change control / change enablement",
+      "D": "Problem administration",
+      "ANS": "B"
+   },
+   "80": {
+      "Q": "What describes the requirements for service and bears accountability for the outcomes of service?",
+      "A": "An IT investment",
+      "B": "A customer",
+      "C": "A configuration object (CO)",
+      "D": "A user",
+      "ANS": "B"
+   },
+   "81": {
+      "Q": "Who co-creates value in a service relationship?",
+      "A": "Investor and vendors",
+      "B": "Consumer and provider",
+      "C": "Provider and sellers",
+      "D": "Investor and buyer",
+      "ANS": "B"
+   },
+   "82": {
+      "Q": "Which is normal changes?",
+      "A": "Changes that are low-threat and pre-approved",
+      "B": "Changes that need to be scheduled and assessed following a process",
+      "C": "Changes that are generally started as service requests",
+      "D": "Changes that must be enforced as shortly as possible",
+      "ANS": "B"
+   },
+   "83": {
+      "Q": "What is the desired outcome of using a service value chain?",
+      "A": "Service value creeks",
+      "B": "Customer attention",
+      "C": "Value realization",
+      "D": "The application of techniques",
+      "ANS": "C"
+   },
+   "84": {
+      "Q": "Which of the following most correctly describe outcomes?",
+      "A": "Outcomes are one or more services that satisfy the requirements of a service buyer.",
+      "B": "Service providers help service consumers achieve outcomes",
+      "C": "Outcomes assist service clients reach outputs",
+      "D": "Supporting service customers acquire outcomes lowers service provider charges",
+      "ANS": "B"
+   },
+   "85": {
+      "Q": "Which of the following is a fundamental part of service level management?",
+      "A": "Specialized Listening",
+      "B": "Listening",
+      "C": "Diagnosis",
+      "D": "Problem investigation",
+      "ANS": "B"
+   },
+   "86": {
+      "Q": "What of the following are the three stages of problem management?",
+      "A": "Problem logging, problem category, problem explanation",
+      "B": "Incident administration, problem oversight, change control / change enablement",
+      "C": "Problem identification, problem control, error control",
+      "D": "Problem research, error label. incident answer",
+      "ANS": "C"
+   },
+   "87": {
+      "Q": "Which is the goal of the engage?",
+      "A": "Meeting anticipations for grade, prices and time-to-store",
+      "B": "Providing transparency and good relationships",
+      "C": "Providing the continual advancement of services",
+      "D": "Providing that the organization's image is comprehended",
+      "ANS": "B"
+   },
+   "88": {
+      "Q": "Identify the missing word in the following sentence. The goal of the service configuration management is to assure that accurate and reliable data about the configuration of services, and the [?] that help them is obtainable when and where it is neede",
+      "A": "Sellers",
+      "B": "CIs / Configuration Items",
+      "C": "Consumers",
+      "D": "Investments",
+      "ANS": "B"
+   },
+   "89": {
+      "Q": "What is expressed by the service value system (SVS)?",
+      "A": "How all the components and actions of the organization work jointly as a system to enable value",
+      "B": "Services based on one or more outcomes, designed to address the requirements of a client party",
+      "C": "Common activities conducted by a service provider and a service client to guarantee continual worth co-",
+      "D": "How to use the systems process of the guiding code feel and operate holistically",
+      "ANS": "A"
+   },
+   "90": {
+      "Q": "Which of the following needs the team to show excellent customer service skills, e.g., empathy and emotional intellect?",
+      "A": "Problem control",
+      "B": "Supplier administration",
+      "C": "Release overseeing",
+      "D": "Service desk",
+      "ANS": "D"
+   },
+   "91": {
+      "Q": "Which principle suggests employing the lowest number of steps required to perform an intent?",
+      "A": "Advance separately with feedback",
+      "B": "Focus on worth",
+      "C": "Judge and operate holistically",
+      "D": "Keep it simple and practical",
+      "ANS": "D"
+   },
+   "92": {
+      "Q": "Which TWO information about the 'service request management' are Right? \n1. Service requests are the domain of normal service delivery \n2. Complaints can be processed as service requests \n3. Service requests result from a loss in kindness \n4. Normal changes should be taken as service demands",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "A"
+   },
+   "93": {
+      "Q": "Which of the following correctly describe an IT asset?",
+      "A": "Any financially valuable component that can donate to the delivery of an IT product or service",
+      "B": "Any component that ought to be handled to produce a service",
+      "C": "A demand from a user that creates a service activity",
+      "D": "The reduction of anything that could have an immediate or indirect impact on services",
+      "ANS": "A"
+   },
+   "94": {
+      "Q": "Which of the following contains a workflow management system?",
+      "A": "Organizations and individuals",
+      "B": "Partners and sellers",
+      "C": "Information and technology",
+      "D": "Value brooks and methods",
+      "ANS": "C"
+   },
+   "95": {
+      "Q": "Identify the missing word in the following sentence. A service is a mechanism of promoting value co-creation by promoting outcomes that customers want to achieve, without the customer having to manage specific [?] and threats.",
+      "A": "data",
+      "B": "costs",
+      "C": "utility",
+      "D": "deposit",
+      "ANS": "B"
+   },
+   "96": {
+      "Q": "Which of the following should be logged and handled as a problem?",
+      "A": "A man orders delivery of a computer",
+      "B": "A monitoring tool notices a difference of condition for a service",
+      "C": "Trend analysis shows a large number of alike incidents",
+      "D": "'Continual advancement' must to order an refinement chance",
+      "ANS": "C"
+   },
+   "97": {
+      "Q": "Which principle suggests coordinating all extents of service management?",
+      "A": "Start from you are",
+      "B": "Advance iteratively with info",
+      "C": "Think and work holistically",
+      "D": "Keep it easy and useful",
+      "ANS": "C"
+   },
+   "98": {
+      "Q": "What is the goal of relationship management?",
+      "A": "To establish and nurture the links between the organization and its stakeholders",
+      "B": "To align the organization's procedures and benefits with varying industry needs",
+      "C": "To set explicit business-based targets for service implementation",
+      "D": "To keep the approved quality of a service running all approved. user-initiated service requests",
+      "ANS": "A"
+   },
+   "99": {
+      "Q": "How should the workflow for a new service request be organised?",
+      "A": "Use one workflow for all kinds of service request",
+      "B": "Use separate workflows for per style of service request",
+      "C": "Avoid workflows for easy service requests",
+      "D": "Leverage existing workflows whenever possible",
+      "ANS": "D"
+   },
+   "100": {
+      "Q": "What is the goal of 'information security management'?",
+      "A": "To protect the information needed by the organization to conduct its business",
+      "B": "To watch services and service elements.",
+      "C": "To ensure that correct and trustworthy data about the composition of services is available when and",
+      "D": "To prepare and address the full lifecycle of all IT acquisitions.",
+      "ANS": "A"
+   },
+   "101": {
+      "Q": "How should automation be enforced?",
+      "A": "By replacing manual functions",
+      "B": "By replacing the currently-used agencies",
+      "C": "By focusing on the most complex chores",
+      "D": "By optimizing as much as possible first",
+      "ANS": "D"
+   },
+   "102": {
+      "Q": "Which action is an element of the 'continual improvement'?",
+      "A": "Identifying and logging opportunities",
+      "B": "Delivering contact with buyers",
+      "C": "Identify and operate CI journals",
+      "D": "Delivering a communication medium for users to register their problems",
+      "ANS": "A"
+   },
+   "103": {
+      "Q": "Which of the following are needed by the service level management?",
+      "A": "Problem research and solution",
+      "B": "Business analysis and commercial management",
+      "C": "Incident investigation and ordering",
+      "D": "Balanced scorecard checks and maturity examination",
+      "ANS": "B"
+   },
+   "104": {
+      "Q": "Which of the following uses strategies such as SWOT analysis and maturity reviews?",
+      "A": "Incident administration",
+      "B": "Procurement management",
+      "C": "Continual improvement",
+      "D": "Shipping request management",
+      "ANS": "C"
+   },
+   "105": {
+      "Q": "Which of the following about costs is Right?",
+      "A": "Costs imposed on the client are costs of vendors.",
+      "B": "Costs removed from the client are part of the value proposition.",
+      "C": "Costs imposed on the client are costs of service demands.",
+      "D": "Costs removed from the client are part of service elements.",
+      "ANS": "B"
+   },
+   "106": {
+      "Q": "Which of the following is good to assign complex incidents to help groups?",
+      "A": "A self-own tool",
+      "B": "The incident ordering",
+      "C": "change management timetable",
+      "D": "The incident category",
+      "ANS": "D"
+   },
+   "107": {
+      "Q": "Which of the following has a purpose that aligns the organization with varying business conditions?",
+      "A": "Service level administration",
+      "B": "Service configuration control",
+      "C": "Service configuration control",
+      "D": "Continual improvement",
+      "ANS": "D"
+   },
+   "108": {
+      "Q": "A major incident is closed, but there is a chance to reoccur. How to log and handle it?",
+      "A": "As a project submission",
+      "B": "As a service notice",
+      "C": "As an happening",
+      "D": "As a problem",
+      "ANS": "D"
+   },
+   "109": {
+      "Q": "Which of the following to choose the suitable metrics to measure service?",
+      "A": "Measuring the execution over the first three months.",
+      "B": "Asking clients to provide targets",
+      "C": "Asking customers open questions to establish their requirements",
+      "D": "Using information to produce reports",
+      "ANS": "C"
+   },
+   "110": {
+      "Q": "Which of the following has activities and workflows?",
+      "A": "Business and person",
+      "B": "IT / Information Technology",
+      "C": "Vendor and business supporters",
+      "D": "Value streams and processes",
+      "ANS": "D"
+   },
+   "111": {
+      "Q": "Which of the following to develop user expectations for request fulfilment duration?",
+      "A": "The duration for service delivery",
+      "B": "The consumer necessities",
+      "C": "The time needed to realistically deliver the service",
+      "D": "The service levels of the seller",
+      "ANS": "C"
+   },
+   "112": {
+      "Q": "Which depicts a set of specified steps for enforcing improvements?",
+      "A": "enhance",
+      "B": "CSI Register / Continual Service Improvement Register",
+      "C": "The 'continual improvement model'",
+      "D": "Communication and Contact",
+      "ANS": "C"
+   },
+   "113": {
+      "Q": "Which of the following is consequence / result of 'progress iteratively with feedback'?",
+      "A": "The ability to discover and respond to failure earlier",
+      "B": "Standardized by-products",
+      "C": "Understand how clients feel values",
+      "D": "Understand the existing situation and know the way to reuse it.",
+      "ANS": "A"
+   },
+   "114": {
+      "Q": "Which principle utilises experience and knowledge from one activity to improve?",
+      "A": "Start where you are",
+      "B": "Progress and advancement iteratively",
+      "C": "Keep it straightforward and useful",
+      "D": "manual and automated operations",
+      "ANS": "A"
+   },
+   "115": {
+      "Q": "What confirms that the organization's suppliers and their performance are appropriately managed?",
+      "A": "Rollout administration",
+      "B": "Supplier management",
+      "C": "Service management procedures",
+      "D": "Connection Management",
+      "ANS": "B"
+   },
+   "116": {
+      "Q": "Which of the following about change authorities is RIGHT?",
+      "A": "Change authorities are only needed for permitting emergency changes",
+      "B": "Change authorities are appointed when each change is implemented",
+      "C": "Change authorities are only needed for authorizing regular changes",
+      "D": "Change authorities are assigned for each type of change and change model",
+      "ANS": "D"
+   },
+   "117": {
+      "Q": "Which practice improves client and user satisfaction by lessening the negative effect of service interruptions?",
+      "A": "Service request administration",
+      "B": "Service level governance",
+      "C": "Incident management",
+      "D": "Change control",
+      "ANS": "C"
+   },
+   "118": {
+      "Q": "Which will NOT be processed as a service request?",
+      "A": "The degradation of a service",
+      "B": "The substitute of a toner cartridge",
+      "C": "The provision of a computer",
+      "D": "An objection about a help group",
+      "ANS": "A"
+   },
+   "119": {
+      "Q": "Identify the missing words. User is (?) that utilizes services.",
+      "A": "a community",
+      "B": "a role",
+      "C": "a group",
+      "D": "a seller",
+      "ANS": "B"
+   },
+   "120": {
+      "Q": "A service offering may contain goods, admission to resources, and service activities. Which is an illustration of a service action?",
+      "A": "A mobile phone allows a user to operate remotely.",
+      "B": "A password permits a user join a Wireless network",
+      "C": "A consent authorises a user to establish a software product",
+      "D": "A service desk agent provides support to a user",
+      "ANS": "D"
+   },
+   "121": {
+      "Q": "Which explains Rightly to change authorization?",
+      "A": "Changes contained in the change agenda are pre-authorized and do not require additional approval",
+      "B": "Normal changes should be assessed and authorized before they are deployed",
+      "C": "Emergency changes should be approved by as multiple individuals as possible to lower hazard",
+      "D": "Normal changes are commonly enforced as service requests and approved by the service desk",
+      "ANS": "B"
+   },
+   "122": {
+      "Q": "Which information about a service value stream is Valid?",
+      "A": "It uses prescribed intakes and outcomes.",
+      "B": "It is a value chain exercise.",
+      "C": "It integrates practices for a specific scenario.",
+      "D": "It is used to provide authority.",
+      "ANS": "C"
+   },
+   "123": {
+      "Q": "Which information about outputs is accurate?",
+      "A": "They are made of multiple outcomes.",
+      "B": "They capture client need for services",
+      "C": "They contribute to the achievement of outcomes",
+      "D": "They explain how the service does",
+      "ANS": "C"
+   },
+   "124": {
+      "Q": "Which of the following an illustration of a business-related measurement?",
+      "A": "The number of passengers checked in",
+      "B": "The average time to reply to change submissions",
+      "C": "The average answer time for happenings",
+      "D": "The digit of problems settled.",
+      "ANS": "A"
+   },
+   "125": {
+      "Q": "Which of the following concerns the management of susceptibilities that have been investigated but not resolved?",
+      "A": "Change control",
+      "B": "Service request administration",
+      "C": "Problem management",
+      "D": "Service level leadership",
+      "ANS": "C"
+   },
+   "126": {
+      "Q": "Which of the following BEST explains the objective of the 'improve' value chain activity?",
+      "A": "To organize a significant advancement ambition into several smaller initiatives",
+      "B": "To make fresh and improved services and components available for use",
+      "C": "To ensure a conveyed sense of the vision and progress principle for all products and services",
+      "D": "To continually improve all products and services across all value chain activities",
+      "ANS": "D"
+   },
+   "127": {
+      "Q": "Identify the absent word(s) in the following sentence. The service desk should be the entry point and single point of contact for the [?] with all of its users.",
+      "A": "Service client",
+      "B": "Service provider",
+      "C": "Consumer",
+      "D": "Vendor",
+      "ANS": "B"
+   },
+   "128": {
+      "Q": "Which of the following contains governance, management practices, and continual improvement?",
+      "A": "The service value system",
+      "B": "The 'give and help' value chain activity",
+      "C": "The 'focus on worth' guiding principle",
+      "D": "The 'value creek and methods' dimension",
+      "ANS": "A"
+   },
+   "129": {
+      "Q": "Which of the following is utilised to ensure client requirements for services?",
+      "A": "Service request administration",
+      "B": "Service level management",
+      "C": "Service table",
+      "D": "Incident leadership",
+      "ANS": "B"
+   },
+   "130": {
+      "Q": "Which of the following is the definition of a problem?",
+      "A": "An unexpected interruption to service, or decline in the grade of a service",
+      "B": "A cause, or potential cause, of one or more incidents",
+      "C": "An incident for which a whole solution is not yet known",
+      "D": "Any modification of state that has importance for the administration of a configuration item (CI)",
+      "ANS": "B"
+   },
+   "131": {
+      "Q": "Which of the following is correct is Right when using the guiding principle 'keep it simple and practical?",
+      "A": "Only add controls and metrics when they are needed",
+      "B": "Design rules and metrics first, then release those not counting value",
+      "C": "Design rules and metrics and add them each until all are enforced",
+      "D": "Only add rules and metrics that are needed for obedience",
+      "ANS": "A"
+   },
+   "132": {
+      "Q": "Which of the following gives a contact point for users to inform operating issues, enquiries and demands?",
+      "A": "Incident administration",
+      "B": "Continual advancement",
+      "C": "Service desk",
+      "D": "Relationship governance",
+      "ANS": "C"
+   },
+   "133": {
+      "Q": "What are generally identified through notifications generated by an IT service, Configuration Item (CI) or monitoring device?",
+      "A": "Happenings",
+      "B": "Issues",
+      "C": "Events",
+      "D": "Requests",
+      "ANS": "C"
+   },
+   "134": {
+      "Q": "Which of the following is MOST concerned with skills, abilities, roles and duties?",
+      "A": "Organizations and people",
+      "B": "Data and technology",
+      "C": "Partners and vendors",
+      "D": "value streams and procedures",
+      "ANS": "A"
+   },
+   "135": {
+      "Q": "Which of the following describe utility?",
+      "A": "The functionality offered by a service to meet a particular need",
+      "B": "Assurance that service will meet approved on conditions",
+      "C": "The quantity of banknotes spent on a specific action or resource",
+      "D": "The perceived advantages, effectiveness and significance of something",
+      "ANS": "A"
+   },
+   "136": {
+      "Q": "How should the guiding principles be connected when a company decides?",
+      "A": "By employing all the guiding principles equally when completing any decision",
+      "B": "By operating the one or two guiding principles that are most suitable to the exact decision",
+      "C": "By using the 'focus on worth' principle and one or two others that are applicable to the precise decision",
+      "D": "By reviewing each guiding principle to decide how relevant it is to the specific decision",
+      "ANS": "D"
+   },
+   "137": {
+      "Q": "Which of the following includes the goal to establish and nurture the connections between the organization and its stakeholders at strategic and tactical grades?",
+      "A": "Supplier administration",
+      "B": "Change control",
+      "C": "Relationship management",
+      "D": "Service table",
+      "ANS": "C"
+   },
+   "138": {
+      "Q": "Which of the following has a powerful impact on the user experience and perception of the service provider?",
+      "A": "Service desk",
+      "B": "Change",
+      "C": "Service level administration",
+      "D": "Supplier overseeing",
+      "ANS": "A"
+   },
+   "139": {
+      "Q": "Which of the following focuses on service clients?",
+      "A": "Start from you are",
+      "B": "Automate and optimization",
+      "C": "Keep it straightforward and workable",
+      "D": "Focus on value",
+      "ANS": "D"
+   },
+   "140": {
+      "Q": "What must consistently be accomplished before an action is automated?",
+      "A": "Check that the activity has already been optimized",
+      "B": "Check that appropriate new technology has been bought",
+      "C": "Ensure that DevOps has been smoothly executed",
+      "D": "Ensure the resolution withdraws the demand for mortal intervention.",
+      "ANS": "A"
+   },
+   "141": {
+      "Q": "Which of the following is helpful to the 'where are we now?' step of the continual improvement model?",
+      "A": "Executing advancement efforts",
+      "B": "Performing baseline assessments",
+      "C": "Defining the revision plan",
+      "D": "Understanding the company task",
+      "ANS": "B"
+   },
+   "142": {
+      "Q": "Which of the following about service requests is proper?",
+      "A": "Complex service submissions should be marketed with as normal changes",
+      "B": "Service demands that require simple workflows should be dealt with as happenings",
+      "C": "Service requests require workflows that should employ manual methods and avoid automation.",
+      "D": "Service requests are usually formalized using standard procedures for initiation, approval and fulfilment",
+      "ANS": "D"
+   },
+   "143": {
+      "Q": "Which of the following about 'continual improvement' Is valid?",
+      "A": "All advancement ideas should be logged in a single continual headway register",
+      "B": "A single squad should carry out 'continual improvement' across the community",
+      "C": "Continual Improvement' should have tiniest interchange with other methods",
+      "D": "Everyone In the organization is responsible for some aspects of 'continual Improvement",
+      "ANS": "D"
+   },
+   "144": {
+      "Q": "Which of the following is the most accurate depiction of the value of a service to a client?",
+      "A": "The amount of cash the client pays for utilising the service",
+      "B": "The economic return the client gets from utilising the service",
+      "C": "The results the customer accepts by utilising the service",
+      "D": "The customers perception of the benefits of using the service",
+      "ANS": "D"
+   },
+   "145": {
+      "Q": "Why is it vital to establish target solution times in 'incident management?",
+      "A": "They determine when an happening becomes a trouble",
+      "B": "They determine which help team the happening should be escalated to",
+      "C": "They enable the management of customer and user expectations.",
+      "D": "They promote data sharing and learning.",
+      "ANS": "C"
+   },
+   "146": {
+      "Q": "Which of the following is accountable for moving new or revised components to living or other environments?",
+      "A": "Release administration",
+      "B": "Deployment management",
+      "C": "Change control",
+      "D": "Supplier oversight",
+      "ANS": "B"
+   },
+   "147": {
+      "Q": "Which of the following determines metrics that reflect the clients' experience of service?",
+      "A": "Continual Advancement",
+      "B": "Service Table",
+      "C": "Service level management",
+      "D": "Problem administration",
+      "ANS": "C"
+   },
+   "148": {
+      "Q": "Which of the following kind of change is MOST possible to be handled as a service request?",
+      "A": "A standard change",
+      "B": "A typical change",
+      "C": "An crisis change",
+      "D": "An administrative change",
+      "ANS": "A"
+   },
+   "149": {
+      "Q": "Which of the following focuses on associations with other organizations involved in the creation, evolution, deployment and delivery of services?",
+      "A": "Organizations and individuals",
+      "B": "Data and technology",
+      "C": "Partners and suppliers",
+      "D": "Value streams and methodologies",
+      "ANS": "C"
+   },
+   "150": {
+      "Q": "Which of the following is take as part of problem management?",
+      "A": "Creating happening records",
+      "B": "Diagnosing and settling issues",
+      "C": "Escalating to a help team for solution",
+      "D": "Trend analysis of incident records",
+      "ANS": "D"
+   },
+   "151": {
+      "Q": "What effect does automation maintain on a service desk?",
+      "A": "Less low level work and a greater ability to focus on user experience",
+      "B": "Increased phone connection and a diminished capacity to concentrate on user experience",
+      "C": "Ability to operate from numerous sites, geographically dispersed",
+      "D": "Ability to operate from a one cental site",
+      "ANS": "A"
+   },
+   "152": {
+      "Q": "Which of the following describe a change schedule utilised for?",
+      "A": "To help plan trouble changes",
+      "B": "To help approve standard changes",
+      "C": "To help appoint a change authority",
+      "D": "To help manage normal changes",
+      "ANS": "D"
+   },
+   "153": {
+      "Q": "Which of the following suggests conducting service reviews to ensure that services keep meeting the requirements of the organization?",
+      "A": "Service Table",
+      "B": "Service request administration",
+      "C": "Service level management",
+      "D": "Service configuration control",
+      "ANS": "C"
+   },
+   "154": {
+      "Q": "Which of the following bears accountability for the outcomes of service?",
+      "A": "Company",
+      "B": "Backer",
+      "C": "Customer",
+      "D": "Service Provider",
+      "ANS": "C"
+   },
+   "155": {
+      "Q": "Which of the following is responsible to approves the cost of services?",
+      "A": "User",
+      "B": "Change lead",
+      "C": "Sponsor",
+      "D": "Client",
+      "ANS": "C"
+   },
+   "156": {
+      "Q": "Which of the following does a service desk handle for all issues, questions and requests reported to them?",
+      "A": "Schedule, evaluate, approve",
+      "B": "Diagnose, research, decide",
+      "C": "Initiate, back, complete",
+      "D": "Acknowledge, classify, own",
+      "ANS": "D"
+   },
+   "157": {
+      "Q": "Which of the following is an external input to the service value chain?",
+      "A": "The 'improve' value chain action.",
+      "B": "An comprehensive plan",
+      "C": "Customer requirements",
+      "D": "Feedback loops",
+      "ANS": "C"
+   },
+   "158": {
+      "Q": "Which of the following defines the utility of a service?",
+      "A": "A service that is fit for usage",
+      "B": "A service that fulfils its service level objectives",
+      "C": "Service that improves restrictions on the client",
+      "D": "A service that supports the performance of the consumer",
+      "ANS": "D"
+   },
+   "159": {
+      "Q": "Which of the following is contained in the goal of the service level management?",
+      "A": "To maximize the number of victorious service and by-product changes",
+      "B": "To ensure correct info about the configuration of services is obtainable",
+      "C": "To set clear business-based targets for service levels",
+      "D": "To ensure that vendors and their performance are appropriately managed.",
+      "ANS": "C"
+   },
+   "160": {
+      "Q": "Which of the following usually requires a group of representatives from many stakeholder parties?",
+      "A": "Fulfilling a service submission",
+      "B": "Authorizing a crisis change",
+      "C": "Logging a new annoyance",
+      "D": "Investigating a major incident",
+      "ANS": "D"
+   },
+   "161": {
+      "Q": "Which of the following assures that service components fulfil agreed specifications?",
+      "A": "Program",
+      "B": "Design and growth",
+      "C": "Obtain/build",
+      "D": "Deliver and help",
+      "ANS": "C"
+   },
+   "162": {
+      "Q": "What is the goal of the 'Information security management'?",
+      "A": "To protect the information needed by the organization to conduct its business",
+      "B": "To observe services and elements.",
+      "C": "To ensure that correct and trustworthy data about the configuration of services is obtainable when and",
+      "D": "To plan and execute the entire lifecycle of all IT assets.",
+      "ANS": "A"
+   },
+   "163": {
+      "Q": "Which of the following include governance as a component?",
+      "A": "Procedures",
+      "B": "The service matter chain",
+      "C": "The service value system",
+      "D": "The guiding regulations",
+      "ANS": "C"
+   },
+   "164": {
+      "Q": "Which of the following needs people who comprehend complicated systems and have innovative and analytical skills?",
+      "A": "Change control",
+      "B": "Service level administration",
+      "C": "Service request control",
+      "D": "Problem management",
+      "ANS": "D"
+   },
+   "165": {
+      "Q": "Which of the following guiding principle is PRIMARILY interested in end-to-end service delivery?",
+      "A": "Focus on worth",
+      "B": "Think and work holistically",
+      "C": "Automate and optimization",
+      "D": "Cooperate and facilitate visibility",
+      "ANS": "B"
+   },
+   "166": {
+      "Q": "Which of the following dimension thinks about information security and privacy?",
+      "A": "Organizations and individuals",
+      "B": "Information and technology",
+      "C": "Partners and vendors",
+      "D": "Value streams and methodologies",
+      "ANS": "B"
+   },
+   "167": {
+      "Q": "Which of the following terms associated with service levels aligned with the requirements of service clients?",
+      "A": "Service administration",
+      "B": "Warranty",
+      "C": "Expenditure",
+      "D": "Utility",
+      "ANS": "B"
+   },
+   "168": {
+      "Q": "Which of the following directly helps with diagnosing and resolving simple incidents?",
+      "A": "Scripts for collecting user information",
+      "B": "Use of transformation working habits",
+      "C": "Fulfilment of service submissions",
+      "D": "Creation of a quick group",
+      "ANS": "A"
+   },
+   "169": {
+      "Q": "Which of the following are guiding principles?",
+      "A": "A set of interconnected actions that help an institution deliver a helpful service",
+      "B": "A description of one or more services that aid address the requirements of a target client group",
+      "C": "A set of specialized organizational abilities for promoting value for clients",
+      "D": "Recommendations that help an organization when adopting a service management approach",
+      "ANS": "D"
+   },
+   "170": {
+      "Q": "Which of the following practice establish a connection between the service provider and the users?",
+      "A": "Change enablement",
+      "B": "Service level administration",
+      "C": "Problem overseeing",
+      "D": "Service desk",
+      "ANS": "D"
+   },
+   "171": {
+      "Q": "Which of the following statement regarding the 'change enablement' is accurate?",
+      "A": "Service submissions are usually normal changes that can be executed fast without approval",
+      "B": "Emergency changes are modifications that must be thoroughly experimented with and fully documented",
+      "C": "Standard changes are shifts that need to be scheduled, evaluated and licensed following a standard",
+      "D": "Emergency changes are changes that must be implemented as soon as possible, and therefore,",
+      "ANS": "D"
+   },
+   "172": {
+      "Q": "Which of the following does 'change enablement' mainly focus on?",
+      "A": "Changes to service targets",
+      "B": "Changes to products and services",
+      "C": "Changes to organizational construction",
+      "D": "Changes to skills and abilities",
+      "ANS": "B"
+   },
+   "173": {
+      "Q": "Which of the following aims to ensure that the organization's suppliers and their performance are managed appropriately to sustain the provision of seamless, quality products + services?",
+      "A": "Release administration",
+      "B": "Supplier management",
+      "C": "Service governance",
+      "D": "Relationship control",
+      "ANS": "B"
+   },
+   "174": {
+      "Q": "Which of the following is a key requirement for a victorious service level agreement (SLA)?",
+      "A": "Using personal metrics that relate to the service record",
+      "B": "Using bundled metrics to relate performance to outcomes",
+      "C": "Using one-system-based metrics that relate to outcomes",
+      "D": "Using an understanding between the service provider and service supplier",
+      "ANS": "B"
+   },
+   "175": {
+      "Q": "Which of the following is thought by the 'partners and suppliers?",
+      "A": "Working with an integrator to foster relationships",
+      "B": "Defining rules and policies",
+      "C": "Using standard roles and duties",
+      "D": "Working with an integrator to manage relationships",
+      "ANS": "D"
+   },
+   "176": {
+      "Q": "Which of the following suggests utilizing tools for cooperation and the automated matching symptoms?",
+      "A": "Problem control",
+      "B": "Service level administration",
+      "C": "Incident management",
+      "D": "Service request oversight",
+      "ANS": "C"
+   },
+   "177": {
+      "Q": "Which of the following is the goal of the 'problem management'?",
+      "A": "To protect the data needed by the institution to operate its business",
+      "B": "To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents",
+      "C": "To align the organization's procedures and services with varying business requirements through the",
+      "D": "To minimize the adverse impact of happenings by restoring regular service operation as fast as",
+      "ANS": "B"
+   },
+   "178": {
+      "Q": "Which of the following would support a user gaining access to the software they should use?",
+      "A": "Service configuration administration",
+      "B": "Change enablement",
+      "C": "Service request management",
+      "D": "Service level oversight",
+      "ANS": "C"
+   },
+   "179": {
+      "Q": "Why are some service requests being carried out with no additional approvals?",
+      "A": "To ensure that expenditure is appropriately accounted for",
+      "B": "To ensure that data security conditions are met",
+      "C": "To streamline the fulfilment workflow",
+      "D": "To set people's expectations for fulfilment times.",
+      "ANS": "C"
+   },
+   "180": {
+      "Q": "Which of the following gives an individual access to a system?",
+      "A": "Service need",
+      "B": "Service contract",
+      "C": "Service consumption",
+      "D": "Service provision",
+      "ANS": "D"
+   },
+   "181": {
+      "Q": "Which of the following correctly describes what a change schedule is used for?",
+      "A": "To help plan, delegate and organise emergency changes",
+      "B": "To publish a checklist of service demands that users can choose",
+      "C": "To guarantee that a one change authority inspects all changes",
+      "D": "To help plan changes, assist in communication and avoid conflicts",
+      "ANS": "D"
+   },
+   "182": {
+      "Q": "Which of the following is used to connects actions within the service value chain?",
+      "A": "Service level contracts",
+      "B": "Inputs, outputs and triggers",
+      "C": "Opportunity, need and worth",
+      "D": "Service table",
+      "ANS": "B"
+   },
+   "183": {
+      "Q": "Which of the following two practices use workarounds?",
+      "A": "Change enablement and continual advancement",
+      "B": "Change enablement and problem administration",
+      "C": "Problem management and incident management",
+      "D": "Incident management and continual advancement",
+      "ANS": "C"
+   },
+   "184": {
+      "Q": "Which of the following statement about the change enablement is RIGHT?",
+      "A": "Standard changes are those that ought to be planned, evaluated and approved following a formal",
+      "B": "Normal changes are triggered by the creation of a change request which can be created manually or",
+      "C": "Assessment and approval of normal changes should be expedited to guarantee they can be enforced",
+      "D": "There should be a different change authority for standard changes which possesses senior leaders who",
+      "ANS": "B"
+   },
+   "185": {
+      "Q": "Which of the following is contained in the goal of the 'deliver and support'?",
+      "A": "Meeting stakeholder anticipations for a period to market.",
+      "B": "Understanding the institution's service image",
+      "C": "Understanding stakeholder necessities",
+      "D": "Providing services to agreed specifications",
+      "ANS": "D"
+   },
+   "186": {
+      "Q": "Which of the following is the goal of the 'service desk'?",
+      "A": "To underestimate the adverse impact of incidents by converting normal service operation as fast as",
+      "B": "To be the entry point and single point of contact for the service provider with its users",
+      "C": "To sustain the consented quality of service by bearing all pre-defined, user-initiated service requests",
+      "D": "To launch and nurture the connections between the organization and its stakeholders at strategic and",
+      "ANS": "B"
+   },
+   "187": {
+      "Q": "Which of the following are elements of the service value system?",
+      "A": "Service condition, service usage, service relationship administration",
+      "B": "Governance, service value chain, practices",
+      "C": "Outputs, utility, guarantee",
+      "D": "Customer worth, stakeholder importance, organization",
+      "ANS": "B"
+   },
+   "188": {
+      "Q": "Which of the following is an unplanned interruption or reduction in the quality of service?",
+      "A": "An Incident",
+      "B": "A difficulty",
+      "C": "A change",
+      "D": "An occasion",
+      "ANS": "A"
+   },
+   "189": {
+      "Q": "Which of the following describes measurement's benefit in the 'start where you are' is RIGHT?",
+      "A": "It should always be utilised to support direct observation",
+      "B": "It should always be utilised rather of direct observation",
+      "C": "Measured information is always more precise than direct observation",
+      "D": "The deed of measuring always completely affects results",
+      "ANS": "A"
+   },
+   "190": {
+      "Q": "Which of the following is an incident?",
+      "A": "The planned reduction of an object that might impact a service",
+      "B": "A result enabled by one or more results",
+      "C": "A likely coming event that could induce harm",
+      "D": "A service interruption resolved by the use of self-help tools",
+      "ANS": "D"
+   },
+   "191": {
+      "Q": "Which of the following is described as a change of state that has significance for operating an IT service?",
+      "A": "Event",
+      "B": "Happening",
+      "C": "Hardship",
+      "D": "Known mistake",
+      "ANS": "A"
+   },
+   "192": {
+      "Q": "Which of the following possesses the knowledge required for the management of services?",
+      "A": "Organizations and individuals",
+      "B": "Information and technology",
+      "C": "Partners and vendors",
+      "D": "Value streams and methodologies",
+      "ANS": "B"
+   },
+   "193": {
+      "Q": "Which of the following is a set of specialized organizational capabilities for facilitating client value in the form of services?",
+      "A": "Service providing",
+      "B": "Service condition",
+      "C": "Service management",
+      "D": "Service consumption",
+      "ANS": "C"
+   },
+   "194": {
+      "Q": "Which of the following is the PRIMARY usage of a change schedule?",
+      "A": "To save the incident administration and advancement planning",
+      "B": "To address trouble changes",
+      "C": "To plan changes and help avoid conflicts",
+      "D": "To organise formal changes",
+      "ANS": "C"
+   },
+   "195": {
+      "Q": "Which of the following focuses on decreasing costs and human errors?",
+      "A": "Focus on worth",
+      "B": "Collaborate and facilitate visibility",
+      "C": "Optimize and automate",
+      "D": "Think and operate holistically",
+      "ANS": "C"
+   },
+   "196": {
+      "Q": "Which of the following is the goal of the incident management?",
+      "A": "To minimize the negative impact of incidents by restoring normal service operation as quickly as",
+      "B": "To catch demand for incident solution and service submissions.",
+      "C": "To decrease the probability and effect of incidents by determining actual and potential causes of",
+      "D": "To sustain the consented service quality by practical handling of all approved user-initiated service",
+      "ANS": "A"
+   },
+   "197": {
+      "Q": "Which of the following makes new services available for use?",
+      "A": "Change enablement",
+      "B": "Release management",
+      "C": "Deployment administration",
+      "D": "IT asset governance",
+      "ANS": "B"
+   },
+   "198": {
+      "Q": "Which of the following considers the significance of customer loyalty?",
+      "A": "Progress iteratively with opinions",
+      "B": "Focus on value",
+      "C": "Automate and optimization",
+      "D": "Start from you are",
+      "ANS": "B"
+   },
+   "199": {
+      "Q": "Which of the following helps ensure that each improvement endeavour has more focus and is easier to maintain?",
+      "A": "Start from you are",
+      "B": "Collaborate and encourage visibility",
+      "C": "Progress iteratively with feedback",
+      "D": "Think and operate holistically",
+      "ANS": "C"
+   },
+   "200": {
+      "Q": "Which of the following is a key activity in the 'did we get there?' of the 'continual Improvement' model?",
+      "A": "Define measurable objectives",
+      "B": "Perform baseline estimations",
+      "C": "Execute improvement activities",
+      "D": "Evaluate measurements and metrics",
+      "ANS": "D"
+   },
+   "201": {
+      "Q": "Which of the following is important for a continual improvement register (CIR)?",
+      "A": "Improvement ideas are documented, assessed and prioritized.",
+      "B": "Improvement pictures from numerous references are kept in a single CIR",
+      "C": "Improvement notions that are not being performed instantly are withdrawn from the CIR",
+      "D": "Improvement visions are stretched, funded and consented.",
+      "ANS": "A"
+   },
+   "202": {
+      "Q": "Which of the following can a service remove from the client and impose on the client?",
+      "A": "utility",
+      "B": "Purchase",
+      "C": "Cost",
+      "D": "Output",
+      "ANS": "C"
+   },
+   "203": {
+      "Q": "Which of the following step of the 'continual improvement model is an improvement plan executed?",
+      "A": "What is the picture?",
+      "B": "How do we reach there?",
+      "C": "Take action",
+      "D": "How do we reach there?",
+      "ANS": "C"
+   },
+   "204": {
+      "Q": "Which of the following is a goal of the service level management?",
+      "A": "To select and facilitate the connections between the organization and stakeholders",
+      "B": "To confirm that the organization's suppliers and their arrangement are handled appropriately",
+      "C": "To support the agreed grade of service by addressing all consented, user-initiated service requests",
+      "D": "To set clear business-based targets for service level",
+      "ANS": "D"
+   },
+   "205": {
+      "Q": "Which of the following describes the steps required to create and deliver a specified service to a client?",
+      "A": "Service administration",
+      "B": "Preparations",
+      "C": "A value stream",
+      "D": "Service level direction",
+      "ANS": "C"
+   },
+   "206": {
+      "Q": "Which of the following statement regarding the automation of service requests is RIGHT?",
+      "A": "Service requests that cannot be automated should be born as incidents",
+      "B": "Service requests and their fulfilment should be automated as much as possible",
+      "C": "Service requests that cannot be automated should be tolerated as concerns",
+      "D": "Service requests and their satisfaction should be taken out by service desk team without mechanisation",
+      "ANS": "B"
+   },
+   "207": {
+      "Q": "How are target resolution times utilized in the incident management?",
+      "A": "They are agreed, documented, and communicated to help set user expectations",
+      "B": "They are specified, checked, and conveyed to ensure that clients are pleased with the service",
+      "C": "They are created, supported, and handled to ensure that predictable responses are achieved",
+      "D": "They are planned, evaluated and approved to lessen the hazard of service failures",
+      "ANS": "A"
+   },
+   "208": {
+      "Q": "Which of the following service level management action allows staff to deliver a more business-focused service?",
+      "A": "Building objectives based on the ratio of uptime of a service",
+      "B": "Understanding the ongoing requirements of customers",
+      "C": "Using complicated specialised language in service level agreements (SLA)",
+      "D": "Measuring low-level functional actions",
+      "ANS": "B"
+   },
+   "209": {
+      "Q": "Which of the following has a goal that contains the handling of pre-defined, user-initiated demands for service?",
+      "A": "Service request management",
+      "B": "Service configuration administration",
+      "C": "Deployment control",
+      "D": "Change enablement",
+      "ANS": "A"
+   },
+   "210": {
+      "Q": "Which of the following believes the existing process should be kept by determining how they contribute to value creation?",
+      "A": "Progress iteratively with opinions",
+      "B": "Collaborate and facilitate visibility",
+      "C": "Think and perform holistically",
+      "D": "Keep it simple and practical",
+      "ANS": "D"
+   },
+   "211": {
+      "Q": "Which of the following is the goal of the monitoring and event management?",
+      "A": "To restore regular service process as fast as possible",
+      "B": "To handle workarounds and known mistakes.",
+      "C": "To capture demand for happening resolution and service submissions.",
+      "D": "To systematically observe services and service components",
+      "ANS": "D"
+   },
+   "212": {
+      "Q": "Which of the following about outcomes is RIGHT?",
+      "A": "Outcomes rely on outputs to deliver results for a stakeholder",
+      "B": "Outcomes use actions to create tangible or intangible deliverables",
+      "C": "Outcomes give benefit clients guarantee of products or services",
+      "D": "Outcomes help a service buyer to consider the expense of a distinct movement",
+      "ANS": "A"
+   },
+   "213": {
+      "Q": "Which of the following skill is needed by the service level management?",
+      "A": "Supplier management",
+      "B": "Specialized expertise",
+      "C": "Circumstance monitoring",
+      "D": "Problem control",
+      "ANS": "A"
+   },
+   "214": {
+      "Q": "Which of the following statement regarding the 'continual improvement model' is RIGHT?",
+      "A": "Organizations should operate via the stages of the model in the series in which they are given",
+      "B": "The flow of the model helps organizations to link improvements to its goals",
+      "C": "The model applies to just particular domains of the service value system",
+      "D": "Organizations should employ an extra standard or technique to connect advancements to client value",
+      "ANS": "B"
+   },
+   "215": {
+      "Q": "Which of the following is the best definition of warranty?",
+      "A": "A means of specifying circumstances that could generate hurt or loss",
+      "B": "A means of deciding whether a service is fit for purpose",
+      "C": "A means of pinpointing a consequence for a stakeholder",
+      "D": "A means of determining whether a service is fit for use",
+      "ANS": "D"
+   },
+   "216": {
+      "Q": "Which of the following about value-creating activities is RIGHT?",
+      "A": "Each value stream should be developed with a straightforward mix of service value chain actions.",
+      "B": "Service value chain actions have pre-determined reliances on ITIL approaches",
+      "C": "A value stream is an operating model for creating value through products and services",
+      "D": "Organizations should confirm that each value stream devotes to numerous scenarios",
+      "ANS": "C"
+   },
+   "217": {
+      "Q": "Which of the following is provided by the 'engage'?",
+      "A": "Ensuring that stakeholder anticipations for grade are fulfilled",
+      "B": "Ensuring that stakeholder needs are understood by the organization",
+      "C": "Ensuring that service elements are functional when required",
+      "D": "Ensuring that services are worked to satisfy consented specifications",
+      "ANS": "B"
+   },
+   "218": {
+      "Q": "Which of the following is part of the 'focus on value'?",
+      "A": "Understanding what services help the service consumer",
+      "B": "Reducing the number of stages in the client experience",
+      "C": "Evaluating services to determine parts that can be reused",
+      "D": "Identifying actions that can be performed in smaller efforts",
+      "ANS": "A"
+   },
+   "219": {
+      "Q": "Which of the following is the definition of a customer?",
+      "A": "The role that defines the requirements for a service",
+      "B": "A means of promoting worth co-creation",
+      "C": "The role that permits budget for service usage",
+      "D": "A set of technological organizational abilities for boosting value",
+      "ANS": "A"
+   },
+   "220": {
+      "Q": "Which of the following helps an organization to comprehend the effect of an altered element on other elements in a system",
+      "A": "Focus on worth",
+      "B": "Start from you are",
+      "C": "Think and work holistically",
+      "D": "Keep it easy and useful",
+      "ANS": "C"
+   },
+   "221": {
+      "Q": "Identify the missing words in the following sentence. 'incident management' should maintain [?] for logging and handling incidents.",
+      "A": "a dedicated group",
+      "B": "a formal process",
+      "C": "detailed instructions",
+      "D": "a value chain action",
+      "ANS": "B"
+   },
+   "222": {
+      "Q": "Which of the following is the goal of the deployment management?",
+      "A": "To make new and modified services and characteristics obtainable for use",
+      "B": "To move new or changed components to live environments",
+      "C": "To prepare and handle the full lifecycle of all IT investments.",
+      "D": "To protect the data needed by the organization to perform its business",
+      "ANS": "B"
+   },
+   "223": {
+      "Q": "Which of the following TWO statements about the guiding principles are RIGHT? 1 The guiding principles support continual improvement 2 Each guiding principle involves to a choice of the unrestricted stakeholder sets 3 Organizations should determine which one of the guiding codes is applicable to them 4 Organizations should consider how the guiding principles interact with each other",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "B"
+   },
+   "224": {
+      "Q": "Which of the following is an action of 'problem identification\"?",
+      "A": "Analysing information from software developers",
+      "B": "Establishing concern workarounds",
+      "C": "Analysing the cause of issues",
+      "D": "Establishing possible endless solutions",
+      "ANS": "A"
+   },
+   "225": {
+      "Q": "Which of the following utilize techs such as intelligent telephony systems, a knowledge base and monitoring devices?",
+      "A": "Service configuration administration",
+      "B": "Service desk",
+      "C": "Problem control",
+      "D": "Deployment surveillance",
+      "ANS": "B"
+   },
+   "226": {
+      "Q": "Which of the following statement about standard changes is RIGHT?",
+      "A": "A full examination should be conducted each period the change is enforced.",
+      "B": "The change can be executed with minor testing if required.",
+      "C": "The suitable change authority should be appointed to individual kind of change",
+      "D": "The change does not require additional authorization",
+      "ANS": "D"
+   },
+   "227": {
+      "Q": "Which of the following TWO are deemed as part of the 'organizations and people' of service management? 1 Systems of authority 2 Culture 3 Connections between communities 4 Workflows and procedures",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "A"
+   },
+   "228": {
+      "Q": "Which of the following about the 'service request management' is RIGHT?",
+      "A": "Service submissions are satisfied by using simple workflows",
+      "B": "A new workflow is developed for each kind of request",
+      "C": "Additional permission is sometimes required for repairing of service",
+      "D": "Financial authorization is sometimes required for service requests",
+      "ANS": "D"
+   },
+   "229": {
+      "Q": "Which of the following is a change schedule PRIMARILY used for?",
+      "A": "To help plan approve and prepare emergency changes",
+      "B": "To broadcast a list of service submissions that users can pick",
+      "C": "To broadcast a list of service submissions that users can pick",
+      "D": "To help plan changes, assist in communication and avoid conflicts",
+      "ANS": "D"
+   },
+   "230": {
+      "Q": "Which of the following step of the continual improvement model includes baseline assessments?",
+      "A": "Did we reach there?",
+      "B": "Where are we now?",
+      "C": "What is the image?",
+      "D": "Where do we like to be?",
+      "ANS": "B"
+   },
+   "231": {
+      "Q": "Which of the following describes a 'change authority'?",
+      "A": "A model used to decide who will evaluate a change",
+      "B": "A person who approves a change",
+      "C": "A tool used to support schedule changes",
+      "D": "A way to handle the people parts of change",
+      "ANS": "B"
+   },
+   "232": {
+      "Q": "Which of the following statement about service relationship management is RIGHT?",
+      "A": "It concentrates on the service activities performed by users",
+      "B": "It needs the service client to develop aids for the service provider",
+      "C": "It requires co-operation of both the service provider and service consumer",
+      "D": "It concentrates on the completion of the consented service activities",
+      "ANS": "C"
+   },
+   "233": {
+      "Q": "Which of the following is the MOST significant reason for prioritizing incidents?",
+      "A": "To ensure that user anticipations are naturalistic",
+      "B": "To ensure that incidents with highest impact are resolved first",
+      "C": "To help with data-sharing and education",
+      "D": "To supply connections to corresponding changes and known mistakes.",
+      "ANS": "B"
+   },
+   "234": {
+      "Q": "Which of the following is NOT a component of the service value system?",
+      "A": "The service worth chain",
+      "B": "Opportunity and demand",
+      "C": "Continual advancement",
+      "D": "Control",
+      "ANS": "B"
+   },
+   "235": {
+      "Q": "Which of the following assists in managing an incident when it is unclear which support unit should be working on the incident'?",
+      "A": "Disaster rescue plans",
+      "B": "Swarming",
+      "C": "Target solution period",
+      "D": "self-aid",
+      "ANS": "B"
+   },
+   "236": {
+      "Q": "Which of the following about the 'continual improvement' is RIGHT?",
+      "A": "Continual advancement participation should be confined to a small dedicated group",
+      "B": "It is the role of senior leadership to approve advancement initiatives",
+      "C": "Training should be provided to those involved in continual improvement",
+      "D": "A single continual advancement register should be supported by senior management",
+      "ANS": "C"
+   },
+   "237": {
+      "Q": "Which of the following does the ITIL service value system discourage?",
+      "A": "Coordinated management and obligations",
+      "B": "Organizational silos",
+      "C": "Interfaces among approaches",
+      "D": "Corporate agility",
+      "ANS": "B"
+   },
+   "238": {
+      "Q": "Which of the following describes the Watermelon SLA' effect?",
+      "A": "A single SLA determines target service classes for numerous clients, so every client sees information",
+      "B": "The metrics in an SLA are focused on internal measures, so that reports show everything is good while",
+      "C": "SLA targets vary very frequently, so that each description includes new standards and trends cannot be",
+      "D": "Introducing SLAs for service allows clients to glimpse that the service provider is doing a perfect job, so",
+      "ANS": "B"
+   },
+   "239": {
+      "Q": "Which of the following contains regular reviews to ensure that services are still applicable and relevant?",
+      "A": "Service level management",
+      "B": "Service Table",
+      "C": "Continual advancement",
+      "D": "Change enablement",
+      "ANS": "A"
+   },
+   "240": {
+      "Q": "Which of the following is a service?",
+      "A": "A likely possibility that could induce damage or failure or make it more challenging to achieve goals",
+      "B": "A means of enabling value co-creation by facilitating outcomes that customers want to achieve, without",
+      "C": "A real or intangible deliverable of an action",
+      "D": "Joint actions completed by a service provider and a service client to guarantee continual worth co-",
+      "ANS": "B"
+   },
+   "241": {
+      "Q": "Which of the following TWO are important aspects of the 'service request management'? 1 Standardization and automation 2 Delivering a combination of media for access 3 Establishing a conveyed idea of marks 4 Policies for approvals",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "B"
+   },
+   "242": {
+      "Q": "Which of the following is needed by all service desk staff?",
+      "A": "Excellent specialized understanding",
+      "B": "Root reason research skills",
+      "C": "Demonstration of emotional intelligence",
+      "D": "Details of IP telephony technology",
+      "ANS": "C"
+   },
+   "243": {
+      "Q": "Which of the following builds a channel between the service provider and its users?",
+      "A": "Relationship management",
+      "B": "Change control",
+      "C": "Supplier leadership",
+      "D": "Service desk",
+      "ANS": "D"
+   },
+   "244": {
+      "Q": "Which of the following contains the usage of techniques such as Lean, Agile and DevOps to facilitate a more significant amount of change quicker?",
+      "A": "Service table",
+      "B": "Monitoring and event administration",
+      "C": "Service level leadership",
+      "D": "Continual improvement",
+      "ANS": "D"
+   },
+   "245": {
+      "Q": "Which of the following has a goal to maximize success by ensuring that risks have been properly assessed?",
+      "A": "Relationship administration",
+      "B": "Change enablement",
+      "C": "Release control",
+      "D": "Monitoring and event oversight",
+      "ANS": "B"
+   },
+   "246": {
+      "Q": "Which of the following supplies users with a method to get mixed requests arranged, explained and coordinated?",
+      "A": "Service level administration",
+      "B": "Relationship control",
+      "C": "Continual advancement",
+      "D": "Service desk",
+      "ANS": "D"
+   },
+   "247": {
+      "Q": "Which of the following helps to streamline the completion of service requests?",
+      "A": "Understanding which service requests can be accomplished with limited approvals",
+      "B": "Creating unique workflows for every service submission",
+      "C": "Separating submissions linking to service defeats from the degradation of services",
+      "D": "Eradicating service proposals which have complicated workflows",
+      "ANS": "A"
+   },
+   "248": {
+      "Q": "Which of the following about outcomes is RIGHT?",
+      "A": "They are deliverables delivered to service clients.",
+      "B": "They allow service consumers to achieve a desired result",
+      "C": "They provide by-products to service providers based on outputs",
+      "D": "They co-create worth for service providers by decreasing expenses and dangers",
+      "ANS": "B"
+   },
+   "249": {
+      "Q": "Which of the following says services and processes shall NOT deliver a resolution for every exception?",
+      "A": "Keep it simple and practical.",
+      "B": "Collaborate and facilitate visibility",
+      "C": "Think and perform holistically",
+      "D": "Automate and optimization",
+      "ANS": "A"
+   },
+   "250": {
+      "Q": "Identify the missing word in the following sentence. The goal of the 'supplier management' is to assure that the organization's suppliers and their performances are [?] properly to support the seamless provision of grade products and services",
+      "A": "metric",
+      "B": "awarded",
+      "C": "managed",
+      "D": "determined",
+      "ANS": "C"
+   },
+   "251": {
+      "Q": "Identify the missing words in the following sentence. The goal of the service configuration management is to assure that accurate and trustworthy information about the [?] and the Cls that support them is obtainable when and where it is needed.",
+      "A": "connections with suppliers",
+      "B": "configuration of services",
+      "C": "skills of individuals",
+      "D": "permission of changes",
+      "ANS": "B"
+   },
+   "252": {
+      "Q": "Which of the following needs skills and competencies associated with business analysis, supplier control and relationship management?",
+      "A": "Incident administration",
+      "B": "Monitoring and event leadership",
+      "C": "Service level management",
+      "D": "IT investment management",
+      "ANS": "C"
+   },
+   "253": {
+      "Q": "What is the right moment should a workaround be created?",
+      "A": "As shortly as likely, after the incident is logged",
+      "B": "After the explanation of a problem",
+      "C": "When a problem cannot be resolved quickly",
+      "D": "When a potentially enduring resolution has been determined",
+      "ANS": "C"
+   },
+   "254": {
+      "Q": "Which of the following is a configuration item?",
+      "A": "Any financially useful element that can donate to the delivery of an IT development or service",
+      "B": "Any modification of state that has importance for the control of a service",
+      "C": "Any component that needs to be managed in order to deliver an IT service",
+      "D": "A crisis that has been studied but has not been fixed",
+      "ANS": "C"
+   },
+   "255": {
+      "Q": "Identify the missing words in the following sentence When an organization has chosen to improve service, it should begin by thinking [?]",
+      "A": "existing information",
+      "B": "new ways",
+      "C": "additional dimensions",
+      "D": "revised procedures",
+      "ANS": "A"
+   },
+   "256": {
+      "Q": "Which of the following is a use of the change schedule?",
+      "A": "Assigning resources to changes",
+      "B": "Choosing the authentication power for changes",
+      "C": "Choosing the authorisation power for changes",
+      "D": "Constructing change standards",
+      "ANS": "A"
+   },
+   "257": {
+      "Q": "Which of the following service management considers the workflows and controls required to provide services?",
+      "A": "Organizations and individuals",
+      "B": "Data and technology",
+      "C": "Partners and sellers",
+      "D": "Value streams and processes",
+      "ANS": "D"
+   },
+   "258": {
+      "Q": "Which of the following considers how the steps of a process can be completed as efficiently as possible?",
+      "A": "Focus on worth",
+      "B": "Start from you are",
+      "C": "Think and operate holistically",
+      "D": "Optimize and automate",
+      "ANS": "D"
+   },
+   "259": {
+      "Q": "Which of the following statement about incident management is RIGHT?",
+      "A": "It determines the reason of significant incidents",
+      "B": "It empowers changes to fix incidents",
+      "C": "It preserves precise procedures for analysing incidents",
+      "D": "It resolves the highest impact incidents first",
+      "ANS": "D"
+   },
+   "260": {
+      "Q": "How should an organization prioritize incidents?",
+      "A": "Ask the user for their desired solution timeframe",
+      "B": "Assess the availability of the proper help group",
+      "C": "Use an agreed classification which is based on the business impact of the incident",
+      "D": "Create demand of incidents founded on the dates and times when they were logged",
+      "ANS": "C"
+   },
+   "261": {
+      "Q": "Which of the following is a goal of relationship management?",
+      "A": "To systematically monitor services and service elements",
+      "B": "To shield the data required by the organization to run its business",
+      "C": "To be the access point and single point of connection for the service provider with all of its users",
+      "D": "To Identify, analyse, monitor, and continually Improve links with stakeholders",
+      "ANS": "D"
+   },
+   "262": {
+      "Q": "Which of the following statement about problems is RIGHT?",
+      "A": "Problems are not linked to incidents",
+      "B": "Problems must be fixed fast in order to repair regular business activity",
+      "C": "Problem investigation should focus on one of the tour dimensions to reach a quick diagnosis",
+      "D": "Problem prioritization involves risk assessment",
+      "ANS": "D"
+   },
+   "263": {
+      "Q": "Which of the following is a risk that might be deleted from a service client by an IT service?",
+      "A": "Service provider stopping to exchange",
+      "B": "Security violation",
+      "C": "Failure of server hardware",
+      "D": "Cost of buying servers",
+      "ANS": "C"
+   },
+   "264": {
+      "Q": "Which of the following is one of the MAIN considerations of the 'design and transition'?",
+      "A": "Understanding the organization's image",
+      "B": "Understanding stakeholder requirements",
+      "C": "Meeting stakeholder expectations",
+      "D": "Assuring service elements are functional",
+      "ANS": "C"
+   },
+   "265": {
+      "Q": "Which of the following should be conducted by service request management?",
+      "A": "A request to enforce a safety patch",
+      "B": "A request to provide a laptop",
+      "C": "A request to decide an mistake in a service",
+      "D": "A request to alter a mark in a service level contract",
+      "ANS": "B"
+   },
+   "266": {
+      "Q": "Which of the following action is done by a service provider?",
+      "A": "Requesting critical service activities",
+      "B": "Approving funding for service usage",
+      "C": "Ensuring access to agreed resources",
+      "D": "Obtaining of the blended goods",
+      "ANS": "C"
+   },
+   "267": {
+      "Q": "Which of the following says that it is not commonly required to build something new?",
+      "A": "Focus on worth",
+      "B": "Start where you are",
+      "C": "Progress iteratively with opinions",
+      "D": "Think and function holistically",
+      "ANS": "B"
+   },
+   "268": {
+      "Q": "Which of the following includes managing workarounds and known errors?",
+      "A": "Monitoring and event control",
+      "B": "Service configuration administration",
+      "C": "Problem management",
+      "D": "Issue management",
+      "ANS": "C"
+   },
+   "269": {
+      "Q": "Which of the following activity is part of the continual improvement?",
+      "A": "Handling praises and criticisms from users to identify advancements",
+      "B": "Improving associations with and between stakeholders",
+      "C": "Prioritizing and creating business cases for improvement initiatives",
+      "D": "Pinpointing the causality of unexpected interruptions to service",
+      "ANS": "C"
+   },
+   "270": {
+      "Q": "Identify the missing word in the following sentence A service enables value co-creation by facilitating [?] what customers want to achieve, without the client having to manage distinct costs and risks",
+      "A": "utility",
+      "B": "warrant",
+      "C": "outcomes",
+      "D": "results",
+      "ANS": "C"
+   },
+   "271": {
+      "Q": "Which of the following statement about a service value stream is RIGHT?",
+      "A": "It uses intakes and results prescribed by ITIL",
+      "B": "It is a service value chain action.",
+      "C": "It incorporates approaches for a distinctive scenario.",
+      "D": "It provides an operating model for service providers",
+      "ANS": "D"
+   },
+   "272": {
+      "Q": "Which of the following is a low risk change that has been pre-approved so that no additional authorization is required?",
+      "A": "A standard change",
+      "B": "A change benchmark",
+      "C": "An emergency transition",
+      "D": "A regular change",
+      "ANS": "A"
+   },
+   "273": {
+      "Q": "Which of the following describes the 'plan'?",
+      "A": "it ensures a shared understanding of the current status and vision for all products and services across",
+      "B": "It assures that services are provided and backed according to consented specifications and",
+      "C": "It ensures that service elements are obtainable when and where they are required and meet agreed",
+      "D": "It ensures the continual advancement of products, services, and practices across all value chain moves.",
+      "ANS": "A"
+   },
+   "274": {
+      "Q": "Which of the following phase of problem management includes investigating incidents to look for patterns and trends?",
+      "A": "Problem identification",
+      "B": "Problem management",
+      "C": "Error authority",
+      "D": "Post-implementation examination",
+      "ANS": "A"
+   },
+   "275": {
+      "Q": "Which of the following statement about the optimize and automate is RIGHT?",
+      "A": "Actions should be automated prior they are optimized",
+      "B": "Automation is generously involved to non-standard missions",
+      "C": "Technology eradicates the necessity for human intervention",
+      "D": "Automation frees human resources for more complex activities",
+      "ANS": "D"
+   },
+   "276": {
+      "Q": "Which of the following is described as a financially valuable component that can donate to the delivery of a service?",
+      "A": "Configuration object",
+      "B": "Product",
+      "C": "IT asset",
+      "D": "Occasion",
+      "ANS": "C"
+   },
+   "277": {
+      "Q": "Which of the following MOST supports an organization adapting ITIL concepts to the organization's specific circumstances?",
+      "A": "Continual advancement",
+      "B": "Service value change",
+      "C": "Practices",
+      "D": "Guiding principles",
+      "ANS": "D"
+   },
+   "278": {
+      "Q": "Which of the following is the MAIN advantage of problem management?",
+      "A": "Restoring regular service as fast as feasible",
+      "B": "Reducing the number and impact of incidents",
+      "C": "Maximizing the number of prosperous modifications",
+      "D": "Overseeing workarounds and known mistakes",
+      "ANS": "B"
+   },
+   "279": {
+      "Q": "Which of the following guiding principle dissuades 'silo activity'?",
+      "A": "Focus on worth",
+      "B": "Start from you are",
+      "C": "Collaborate and promote visibility",
+      "D": "Keep it easy and helpful",
+      "ANS": "C"
+   },
+   "280": {
+      "Q": "Which of the following promotes operative communication between the service provider corps and users in the service consumer corps?",
+      "A": "Service level control",
+      "B": "Relationship administration",
+      "C": "Service desk",
+      "D": "Monitoring and event governance",
+      "ANS": "C"
+   },
+   "281": {
+      "Q": "Which of the following dimensions believes in applying artificial intelligence to service management?",
+      "A": "Organizations and individuals",
+      "B": "Information and technology",
+      "C": "Partners and sellers",
+      "D": "Value streams and techniques",
+      "ANS": "B"
+   },
+   "282": {
+      "Q": "Which of the following change is MOST LIKELY to be created as part of service request management?",
+      "A": "A typical change",
+      "B": "An emergency evolution",
+      "C": "A standard change",
+      "D": "A change measure",
+      "ANS": "C"
+   },
+   "283": {
+      "Q": "Which of the following advantage is MOST aligned with the guiding principle 'progress iteratively with feedback'?",
+      "A": "Service providers are able to respond more quickly to customer needs",
+      "B": "Blockages in the service providers' workflow are recognised",
+      "C": "The sophistication of the service providers' IT systems are placed",
+      "D": "The service provider achieves a better insight of the client adventure",
+      "ANS": "A"
+   },
+   "284": {
+      "Q": "Which of the following costs are contained in the value proposition of a service?",
+      "A": "Additional fee that the service client has because they are operating the service",
+      "B": "Money that the service consumer no longer needs to spend because they are using the service",
+      "C": "Tangible or supernatural results for the service client because they are utilising the service",
+      "D": "The gifts, effectiveness, and significance of the service that the service customer perceives",
+      "ANS": "B"
+   },
+   "285": {
+      "Q": "Identify the missing word in the following sentence A [?] is the addition, modification, or removal of anything that may directly or indirectly impact services.",
+      "A": "difficulty",
+      "B": "hazard",
+      "C": "change",
+      "D": "configuration object",
+      "ANS": "C"
+   },
+   "286": {
+      "Q": "Which of the following four dimensions contains the knowledge bases required to provide and supervise services?",
+      "A": "organizations and individuals",
+      "B": "Information and technology",
+      "C": "Partners and sellers",
+      "D": "value streams and approaches",
+      "ANS": "B"
+   },
+   "287": {
+      "Q": "In service relationships, Which of the following is an advantage of identifying consumer roles?",
+      "A": "It enables effective stakeholder management",
+      "B": "it provides conveyed service anticipations",
+      "C": "It releases restrictions from the client",
+      "D": "It allows a standard description of value",
+      "ANS": "A"
+   },
+   "288": {
+      "Q": "Which of the following is a cause, or potential cause, of one or more incidents?",
+      "A": "A problem",
+      "B": "A configuration article",
+      "C": "A workaround",
+      "D": "An happening",
+      "ANS": "A"
+   },
+   "289": {
+      "Q": "Which of the following principle leads to a more rapid response to customer requirements by timeboxing activities and knowledge from the outputs of previous actions?",
+      "A": "Focus on worth",
+      "B": "Progress iteratively with feedback",
+      "C": "Collaborate and boost visibility",
+      "D": "Automate and optimization",
+      "ANS": "B"
+   },
+   "290": {
+      "Q": "Which of the following practices has a goal that maximises the number of successful additions, conversions, or removals of anything that could affect a service?",
+      "A": "Service request administration",
+      "B": "Incident governance",
+      "C": "Service table",
+      "D": "Change enablement",
+      "ANS": "D"
+   },
+   "291": {
+      "Q": "Which of the following situation will incident management USUALLY use a separate procedure?",
+      "A": "Where no target solution time lives",
+      "B": "For low influence incidents",
+      "C": "Where the causality must be interpreted",
+      "D": "For information security incidents",
+      "ANS": "D"
+   },
+   "292": {
+      "Q": "Which of the following practice minimizes the consequence on regular service operation by managing resources in response to unplanned decreases in service quality?",
+      "A": "Incident management",
+      "B": "Change enablement",
+      "C": "Service level administration",
+      "D": "Continual Advancement",
+      "ANS": "A"
+   },
+   "293": {
+      "Q": "Which of the following practice makes use of approaches from Lean, Agile and DevOps?",
+      "A": "Service table",
+      "B": "Continual improvement",
+      "C": "Problem control",
+      "D": "Issue management",
+      "ANS": "B"
+   },
+   "294": {
+      "Q": "Identify the missing word in the following sentence Sponsor is the role that approves budget for service [?]",
+      "A": "worth",
+      "B": "consumption",
+      "C": "control",
+      "D": "condition",
+      "ANS": "B"
+   },
+   "295": {
+      "Q": "Which of the following statement about service offerings is RIGHT?",
+      "A": "The same product can be used as a basis for more than one service offering",
+      "B": "Service offerings contain the transfer of interests from the client to the provider",
+      "C": "Service offerings clarify how providers and clients collaborate to co-create matter",
+      "D": "Each service should be defined to clients as a single service offering",
+      "ANS": "A"
+   },
+   "296": {
+      "Q": "Which of the following is a use of a change schedule?",
+      "A": "Flying up the planning and approval of trouble changes",
+      "B": "Providing information about deployed changes to help manage incidents and problems",
+      "C": "Providing a mechanism of creating and evaluating normal changes",
+      "D": "Tracking and driving advancement theories from identification through to final action",
+      "ANS": "B"
+   },
+   "297": {
+      "Q": "Which of the following statement about value streams is RIGHT?",
+      "A": "Each value stream must contain total six value chain actions",
+      "B": "Each value stream must be designed for a specific scenario",
+      "C": "Each value stream must possess all 34 ITIL techniques",
+      "D": "Each value stream must enclose suppliers or sellers",
+      "ANS": "B"
+   },
+   "298": {
+      "Q": "Which of the following is part of the value proposition of a service?",
+      "A": "Costs removed from the consumer by the service",
+      "B": "Charges imposed on the client by the service",
+      "C": "Outputs of the benefit received by the buyer",
+      "D": "Menaces imposed on the client by the service",
+      "ANS": "A"
+   },
+   "299": {
+      "Q": "Why should a service level manager perform periodic service reviews?",
+      "A": "To confirm that contracts are written simple and are easy to comprehend",
+      "B": "To gather data about service client purposes and goals",
+      "C": "To capture information about service issues and performance against agreed goals",
+      "D": "To grab data about service points and execution against blended plans",
+      "ANS": "C"
+   },
+   "300": {
+      "Q": "A flaw in software could induce failure IT staff are actively investigating the A flaw in an to try and comprehend what is going on. What is the right name for this kind of flaw?",
+      "A": "Problem",
+      "B": "Issue",
+      "C": "Occasion",
+      "D": "Known mistake",
+      "ANS": "A"
+   },
+   "301": {
+      "Q": "Which of the following value chain action assures that ongoing service action satisfies user expectations?",
+      "A": "Schedule",
+      "B": "Engage",
+      "C": "Get/Build",
+      "D": "Deliver and support",
+      "ANS": "D"
+   },
+   "302": {
+      "Q": "Which of the following goal contains creating closer, more collaborative relationships?",
+      "A": "Supplier management",
+      "B": "Information security governance",
+      "C": "Release administration",
+      "D": "Service configuration oversight",
+      "ANS": "A"
+   },
+   "303": {
+      "Q": "Which of the following are TWO inputs to the service value system? 1 Demand 2 Yields 3 Worth 4 Opportunity",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "B"
+   },
+   "304": {
+      "Q": "Which of the following role is MOST appropriate for someone with lots of experience working in IT and business positions?",
+      "A": "Service level manager",
+      "B": "Service desk representative",
+      "C": "Change management",
+      "D": "Problem judge",
+      "ANS": "A"
+   },
+   "305": {
+      "Q": "Which of the following is the addition, conversion or removal of anything that could impact services?",
+      "A": "A change",
+      "B": "An occasion",
+      "C": "An happening",
+      "D": "A difficulty",
+      "ANS": "A"
+   },
+   "306": {
+      "Q": "Which of the following principle suggests thinking of the four dimensions to make something as effective and as useful as it ought to be?",
+      "A": "Focus on worth",
+      "B": "Start from you are",
+      "C": "Think and work holistically",
+      "D": "Automate and optimization",
+      "ANS": "C"
+   },
+   "307": {
+      "Q": "Which of the following practice is MOST LIKELY to use artificial intelligence, robotic process automation, and chatbots?",
+      "A": "Service desk",
+      "B": "continual advancement",
+      "C": "Problem control",
+      "D": "Incident governance",
+      "ANS": "A"
+   },
+   "308": {
+      "Q": "Which of the following is a problem that has been investigated but has not been solved?",
+      "A": "Workaround",
+      "B": "Issue",
+      "C": "Known error",
+      "D": "Occasion",
+      "ANS": "C"
+   },
+   "309": {
+      "Q": "Which of the following is described by the organizations and people?",
+      "A": "Workflows and rules",
+      "B": "Communication and collaboration",
+      "C": "Intakes and results",
+      "D": "Agreements and deals",
+      "ANS": "B"
+   },
+   "310": {
+      "Q": "Which of the following facilitates outcomes that clients want to achieve?",
+      "A": "Service",
+      "B": "Guarantee",
+      "C": "Institution",
+      "D": "IT investment",
+      "ANS": "A"
+   },
+   "311": {
+      "Q": "Which of the following practice suggests that organizations create competencies in methods such as strength, weakness, opportunity, and threat (SWOT) analysis and balanced scorecards?",
+      "A": "Incident administration",
+      "B": "Continual improvement",
+      "C": "Service request control",
+      "D": "Change management",
+      "ANS": "B"
+   },
+   "312": {
+      "Q": "Which of the following ITIL concept allows an organization to make good and proper decisions?",
+      "A": "Four measurements of service management",
+      "B": "Guiding principles",
+      "C": "Service worth chain",
+      "D": "Practices make perfect",
+      "ANS": "B"
+   },
+   "313": {
+      "Q": "Which of the following is a suggestion for applying the guiding principle keep It simple and prac",
+      "A": "Express in a way the audience can listen",
+      "B": "Sometimes nothing from the present circumstances can be re-used",
+      "C": "If a practice is easier to follow it is more likely to be adopted",
+      "D": "Fast does not represent vague",
+      "ANS": "C"
+   },
+   "314": {
+      "Q": "Which of the following has a goal that contains reacting to situations that could lead to potential faults or incidents?",
+      "A": "Incident administration",
+      "B": "Service request governance",
+      "C": "Monitoring and event management",
+      "D": "Change management",
+      "ANS": "C"
+   },
+   "315": {
+      "Q": "Which of the following role would be MOST appropriate for a new graduate with excellent levels of empathy and comprehension of business issues? They also have sound communication talents, and elevated emotional intelligence. And a comprehensive understanding of IT technology.",
+      "A": "Service level executive",
+      "B": "Service desk agent",
+      "C": "Change management",
+      "D": "Problem judge",
+      "ANS": "B"
+   },
+   "316": {
+      "Q": "Which of the following practice nurtures connections with stakeholders at strategic and tactical levels?",
+      "A": "Supplier control",
+      "B": "Relationship management",
+      "C": "Continual advancement",
+      "D": "Service level leadership",
+      "ANS": "B"
+   },
+   "317": {
+      "Q": "Which of the following is a way using the guiding principal focus on value?",
+      "A": "Understanding how service consumers use services",
+      "B": "Understanding the total, but accom",
+      "C": "Acknowledging the complicatedness of systems",
+      "D": "Doing rarer things but accomplishing them nicely",
+      "ANS": "A"
+   },
+   "318": {
+      "Q": "Which of the following item is NOT advised by start where you are?",
+      "A": "Asking queries that seem to be ridiculous",
+      "B": "Specifying what is obtainable to be used",
+      "C": "Building something completely new",
+      "D": "Gathering data straight from the original",
+      "ANS": "C"
+   },
+   "319": {
+      "Q": "Which of the following is a usage of a continual Improvement register (CIR)?",
+      "A": "Scheduling changes, aiding in communication, avoiding disputes, and giving resources",
+      "B": "Selecting the correct method, prototype or procedure for identifying advancements",
+      "C": "Tracking and managing improvement ideas from identification through to final action",
+      "D": "Representing the services developed to fulfil the requirements of a client company",
+      "ANS": "C"
+   },
+   "320": {
+      "Q": "Which of the following practice utilizes pre-defined, standardized procedures to facilitate completion times to be dearly communicated?",
+      "A": "Incident administration",
+      "B": "Service level control",
+      "C": "Problem surveillance",
+      "D": "Service request management",
+      "ANS": "D"
+   },
+   "321": {
+      "Q": "Which of the following TWO are reviews of change enablement? 1 Managing the individuals parts of transition 2 Securing that corporate conversions are victorious 3 Maximizing the number of successful service changes 4 Ensuring that changes are property assessed",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "D"
+   },
+   "322": {
+      "Q": "How can a service client contribute to the decrease of risk?",
+      "A": "By supplying the service following conditions",
+      "B": "By confirming that the service providers' aids are correctly configured",
+      "C": "By fully understanding their own requirements for the service",
+      "D": "By working the precise level of danger on behalf of the service provider",
+      "ANS": "C"
+   },
+   "323": {
+      "Q": "Which of the following case would a problem be logged?",
+      "A": "When the reason is determined but not settled",
+      "B": "Alter analysis of error information from a supplier",
+      "C": "When a user declares an unexpected benefit interruption",
+      "D": "After a workaround is determined and registered",
+      "ANS": "B"
+   },
+   "324": {
+      "Q": "Identify the missing word in the following sentence. The goal of the service configuration management is to assure that accurate and reliable information about the configuration of [?), and the that support is obtainable when and where it is required.",
+      "A": "communities",
+      "B": "consequences",
+      "C": "associations",
+      "D": "services",
+      "ANS": "D"
+   },
+   "325": {
+      "Q": "Which of the following practices helps ensure that the services provided to clients align with their needs?",
+      "A": "Service request administration",
+      "B": "change management",
+      "C": "Problem control",
+      "D": "Service level management",
+      "ANS": "D"
+   },
+   "326": {
+      "Q": "Which of the following service request management decisions need that policies are established?",
+      "A": "Deciding how downgrade of service are determined",
+      "B": "Deciding how to manage service submissions where the actions are unknown",
+      "C": "Deciding which service requests require approval",
+      "D": "Deciding when workarounds should be operated",
+      "ANS": "C"
+   },
+   "327": {
+      "Q": "Which of the following dimension of service management thinks how actions are coordinated?",
+      "A": "Organizations and individuals",
+      "B": "Data and technology",
+      "C": "Partners and sellers",
+      "D": "Value streams and processes",
+      "ANS": "D"
+   },
+   "328": {
+      "Q": "A user reaches the service desk to question how they can make a report. Which practice is MOST LIKELY to donate to solve this issue?",
+      "A": "Incident administration",
+      "B": "Service level control",
+      "C": "Service request management",
+      "D": "Change management",
+      "ANS": "C"
+   },
+   "329": {
+      "Q": "Staff in an IT are very busy, mainly taking out tasks that add lane or no value to the organization or its customers. Which of the following principle suggests that unnecessary work should be eradicated?",
+      "A": "Keep it simple and practical",
+      "B": "Think and operate holistically",
+      "C": "Start from you are",
+      "D": "Progress iteratively with opinions",
+      "ANS": "A"
+   },
+   "330": {
+      "Q": "Which of the following practice has a goal that contains the oversight of financially valuable elements that can contribute to the delivery of an IT service?",
+      "A": "Deployment administration",
+      "B": "Continual advancement",
+      "C": "Monitoring and event control",
+      "D": "IT asset management",
+      "ANS": "D"
+   },
+   "331": {
+      "Q": "Which of the following assures that service activities that are a normal part of service delivery, are effectively processed?",
+      "A": "Incident administration",
+      "B": "Service level governance",
+      "C": "Problem control",
+      "D": "Service request fulfilment",
+      "ANS": "D"
+   },
+   "332": {
+      "Q": "A service will be inaccessible for the next two hours for unexpected maintenance. Which of the following practice is MOST LIKELY to be interested in handling this?",
+      "A": "Incident management",
+      "B": "Problem control",
+      "C": "Change management",
+      "D": "Service orders management",
+      "ANS": "A"
+   },
+   "333": {
+      "Q": "Which of the following is MOST related to the usage of empathy to comprehend users?",
+      "A": "Service desk",
+      "B": "Continual Advancement",
+      "C": "Service level control",
+      "D": "Change enablement",
+      "ANS": "A"
+   },
+   "334": {
+      "Q": "Identify the missing word in the following sentence. A customer defines the [?] for service and bears accountability for the results of service consumption.",
+      "A": "requirements",
+      "B": "aids",
+      "C": "vendors",
+      "D": "goods",
+      "ANS": "A"
+   },
+   "335": {
+      "Q": "Which ensures that a service provider and a service client always co-create value?",
+      "A": "Service usage",
+      "B": "Service packages",
+      "C": "Transformation enablement",
+      "D": "Service relationship management",
+      "ANS": "D"
+   },
+   "336": {
+      "Q": "Which of the following kind of change is frequently used for fixing incidents or enforcing security patches?",
+      "A": "Typical change",
+      "B": "Regular change",
+      "C": "Emergency change",
+      "D": "Change prototype",
+      "ANS": "C"
+   },
+   "337": {
+      "Q": "Which contains configuring elements and actions to facilitate outcomes for stakeholders?",
+      "A": "Service relationship administration",
+      "B": "Service usage",
+      "C": "The service value system",
+      "D": "The release management approach",
+      "ANS": "C"
+   },
+   "338": {
+      "Q": "Which of the following statement about outcomes is RIGHT?",
+      "A": "Outcomes enable yields to be provided to a stakeholder.",
+      "B": "An outcome represents the quantity of money paid on technology for a service",
+      "C": "An outcome depends on at least one output to deliver a result",
+      "D": "Outcomes assure stakeholders on the way a service acts.",
+      "ANS": "C"
+   },
+   "339": {
+      "Q": "Which of the following phase of problem management contains the periodic review of the effectiveness of workarounds?",
+      "A": "Problem designation",
+      "B": "Problem rule",
+      "C": "Error control",
+      "D": "Problem investigation",
+      "ANS": "C"
+   },
+   "340": {
+      "Q": "Which of the following conducts reviews to assure that services continue to satisfy the requirements of the clients?",
+      "A": "Monitoring and event control",
+      "B": "Service level management",
+      "C": "Difference enablement",
+      "D": "Service table",
+      "ANS": "B"
+   },
+   "341": {
+      "Q": "Which of the following service value chain action handle the acquisition of new products?",
+      "A": "Encounter",
+      "B": "Obtain/build",
+      "C": "Plan",
+      "D": "Enhance",
+      "ANS": "B"
+   },
+   "342": {
+      "Q": "Which is contained in the goal of continual improvement?",
+      "A": "The repair of regular service function as fast as possible",
+      "B": "The building of connections between the organization and its stakeholders at strategic and tactical",
+      "C": "The alignment of the organization's practices and services with changing business needs",
+      "D": "The removal of the possibility and consequence of incidents",
+      "ANS": "C"
+   },
+   "343": {
+      "Q": "Which of the following is contained in the goal of the 'improve'?",
+      "A": "Ensuring the continual improvement of practices across all value chain activities",
+      "B": "Ensuring that services always fulfil anticipations for grade, costs, and time to demand",
+      "C": "Ensuring a conveyed sense of the advancement direction for services across the organization",
+      "D": "Ensuring continual attention and good associations with all stakeholders",
+      "ANS": "A"
+   },
+   "344": {
+      "Q": "Which of the following is the BEST kind of resource for investigating complicated incidents?",
+      "A": "self-aid systems",
+      "B": "Knowledgeable support staff",
+      "C": "Precise work instructions",
+      "D": "Catastrophe recovery programs",
+      "ANS": "B"
+   },
+   "345": {
+      "Q": "Which of the following is illustrated as \"any component that needs to be managed to deliver an IT service\"?",
+      "A": "An occasion",
+      "B": "An IT investment",
+      "C": "A configuration item",
+      "D": "A shift",
+      "ANS": "C"
+   },
+   "346": {
+      "Q": "Which of the following TWO statements is MOST related to the 'optimize and automate'? 1 It is essential to evaluate which process of contact is suitable for each kind of stakeholder. 2 Complex systems should be designed with an understanding of how the components' parts are related 3 Organizations should consider whether technology could improve the efficiency of manual processes. 4 It is crucial to comprehend the organization's purposes when evaluating the effect of potential advancements.",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "C"
+   },
+   "347": {
+      "Q": "Which of the following statement about emergency changes is RIGHT?",
+      "A": "Emergency changes are inferior risk and reasonably comprehended",
+      "B": "Authorization of trouble changes may be postponed until after execution",
+      "C": "It is vital to conduct all documentation before an trouble change is enforced",
+      "D": "Emergency changes are not usually recorded in the change schedule",
+      "ANS": "D"
+   },
+   "348": {
+      "Q": "Which of the following is the definition of an IT asset?",
+      "A": "Any financially valuable component that contributes to a service",
+      "B": "Any request from a user that is a regular piece of service delivery",
+      "C": "Any component that ought to be handled to deliver a service",
+      "D": "Any change of circumstances that has importance for the control of a service",
+      "ANS": "A"
+   },
+   "349": {
+      "Q": "Which of the following dimension of service management contains the kind of relationship needed with other organizations involved in the design and delivery of services?",
+      "A": "Organizations and individuals",
+      "B": "Data and technology",
+      "C": "Partners and suppliers",
+      "D": "Value streams and methods",
+      "ANS": "C"
+   },
+   "350": {
+      "Q": "Which of the following is described as \"the role that uses services\"?",
+      "A": "Service client",
+      "B": "Consumer",
+      "C": "User",
+      "D": "Backer",
+      "ANS": "C"
+   },
+   "351": {
+      "Q": "Which of the following is an example of a problem control action?",
+      "A": "Reconsidering incident documents to originality trends",
+      "B": "Enforcing a specialised fix to fix an case",
+      "C": "Re-assessing a learned mistake to comprehend the continuing impact",
+      "D": "Documenting the steps in a workaround",
+      "ANS": "D"
+   },
+   "352": {
+      "Q": "Which of the following should stay consistent within an organization, even when the organization's objectives change?",
+      "A": "Results",
+      "B": "Guiding principles",
+      "C": "Service packages",
+      "D": "Outcomes",
+      "ANS": "B"
+   },
+   "353": {
+      "Q": "Which of the following is a key component of the 'think and work holistically guiding principle?",
+      "A": "Evaluating which techniques can be re-used when enhancing a service",
+      "B": "Understanding the methods applicable to complex systems",
+      "C": "Eradicating metrics which do not donate to completing goal",
+      "D": "Using technology for everyday duties to provide people time for difficult shiftings",
+      "ANS": "B"
+   },
+   "354": {
+      "Q": "Which of the following practice has a goal that contains handling authentication and non-repudiation?",
+      "A": "Information security management",
+      "B": "Supplier control",
+      "C": "Service configuration administration",
+      "D": "Relationship governance",
+      "ANS": "A"
+   },
+   "355": {
+      "Q": "What is the MOST important for effective incident management?",
+      "A": "Collaboration tools and techniques",
+      "B": "Balanced scorecard assessment",
+      "C": "Automated channels",
+      "D": "A variety of access media",
+      "ANS": "A"
+   },
+   "356": {
+      "Q": "Which of the following practice manages all pre-defined user-initiated service activities?",
+      "A": "Deployment control",
+      "B": "Incident administration",
+      "C": "Service level leadership",
+      "D": "Service request management",
+      "ANS": "D"
+   },
+   "357": {
+      "Q": "Which of the following is the MOST important stakeholder body that a service provider requires to cooperate with?",
+      "A": "Sellers",
+      "B": "Customers",
+      "C": "Relationship executives",
+      "D": "Software developers",
+      "ANS": "B"
+   },
+   "358": {
+      "Q": "Which action is NOT advised by the 'start where you are'?",
+      "A": "Involving individuals who are not aware with a service when monitoring and considering its actions",
+      "B": "Applying threat control when believing to present new processes",
+      "C": "Using reference data to bypass any unintended information contortion found in reports",
+      "D": "Discarding existing processes before assessing their usefulness",
+      "ANS": "D"
+   },
+   "359": {
+      "Q": "Why continual improvement use a SWOT analysis?",
+      "A": "Understanding the current state",
+      "B": "Defining the tomorrow expected state",
+      "C": "Tracking and handling concepts",
+      "D": "Ensuring everyone actively experiences",
+      "ANS": "A"
+   },
+   "360": {
+      "Q": "Which of the following TWO kinds of competence are most crucial for service desk staff'? 1 Knowledge of business processes 2 Collaboration skills 3 Progressive specialised Knowledge 4 Workflow innovation talents",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "A"
+   },
+   "361": {
+      "Q": "Which of the following is CORRECT concerning change authorization?",
+      "A": "A change authority is given each time a formal change is requested",
+      "B": "Emergency changes are approved by the repairperson causing the change",
+      "C": "Assignment of the change authority is based on the change type and model",
+      "D": "The change authority will confirm modifications are permitted after they stand deployed",
+      "ANS": "C"
+   },
+   "362": {
+      "Q": "Which of the following term is utilised to represent the functionality of a service?",
+      "A": "Result",
+      "B": "Outcome",
+      "C": "Utility",
+      "D": "Guarantee",
+      "ANS": "C"
+   },
+   "363": {
+      "Q": "Which of the following practices assures that different access channels are functional for users to report issues?",
+      "A": "Service desk",
+      "B": "Service level control",
+      "C": "Incident administration",
+      "D": "Change enablement",
+      "ANS": "A"
+   },
+   "364": {
+      "Q": "Identity the missing word in the following sentence. The problem management seeks to decrease the likelihood and impact of incidents by identifying actual and potential causes of incidents and managing workarounds and [?]",
+      "A": "occasions",
+      "B": "transformations",
+      "C": "investments",
+      "D": "known errors",
+      "ANS": "D"
+   },
+   "365": {
+      "Q": "Which is a necessary condition for successful service level agreements (SLA)?",
+      "A": "They should be written using language and terms which all parties will understand",
+      "B": "They should be established on system-based metrics which are helpful to the service provider",
+      "C": "They should be brought along untouched, from one year to the next to promote uniform service",
+      "D": "They should bypass vague targets such as those connecting to user background",
+      "ANS": "A"
+   },
+   "366": {
+      "Q": "Which of the following is an illustration of a service request?",
+      "A": "A request for regular procedure to be repaired",
+      "B": "A request to execute a safety patch",
+      "C": "A request for access to a file",
+      "D": "A request to examine the grounds of an happening",
+      "ANS": "C"
+   },
+   "367": {
+      "Q": "Which of the following four dimensions concentrates on handling data in compliance with industry statutes?",
+      "A": "Partners and sellers",
+      "B": "Organizations and individuals",
+      "C": "Value streams and methodologies",
+      "D": "Information and technology",
+      "ANS": "D"
+   },
+   "368": {
+      "Q": "When using the ITIL continual improvement model, which info should be generated by a company to understand where the organization is now?",
+      "A": "Business goals",
+      "B": "Advancement plans",
+      "C": "Assessment results",
+      "D": "KPI",
+      "ANS": "C"
+   },
+   "369": {
+      "Q": "When performing an improvement iteration, which idea helps ensure that the iteration actions remain relevant in changing events?",
+      "A": "Feedback loop",
+      "B": "Analysis stiffness",
+      "C": "Minimum viable outcome",
+      "D": "Direct comment",
+      "ANS": "A"
+   },
+   "370": {
+      "Q": "Which practice has a goal that controls financially valuable components that can donate to the delivery of an IT service?",
+      "A": "Deployment administration",
+      "B": "Service configuration control",
+      "C": "IT asset management",
+      "D": "Change control",
+      "ANS": "C"
+   },
+   "371": {
+      "Q": "What is 'service management?",
+      "A": "A set of specialized organizational capabilities for promoting value for clients in the form of services",
+      "B": "A consequence for a stakeholder facilitated by one or more works",
+      "C": "Everyday activities conducted by a service provider and a service customer to guarantee continual value",
+      "D": "A formal definition of one or more services. created to handle the demands of a target customer group",
+      "ANS": "A"
+   },
+   "372": {
+      "Q": "Which is a characterisation of service provision?",
+      "A": "A method to assist make value by promoting results that service clients need",
+      "B": "Collaboration between two institutions to ensure that service delivers value",
+      "C": "Activities that an organization performs to provide services",
+      "D": "A formal characterisation of one or more services. created to handle the needs of a service customer",
+      "ANS": "C"
+   },
+   "373": {
+      "Q": "Which is an input to the service value system (SVS)?",
+      "A": "Recommendations to support an institution in all parts of its result",
+      "B": "The strategy of leading and managing an organization",
+      "C": "A need from customers for new or changed services",
+      "D": "A benchmark to support satisfy stakeholders' anticipations",
+      "ANS": "C"
+   },
+   "374": {
+      "Q": "Which delivers what of a service?",
+      "A": "A SP offers outcomes of the service",
+      "B": "A consumer offers outputs for the service",
+      "C": "A consumer offers outcomes of the service",
+      "D": "A SP offers outputs for the service",
+      "ANS": "D"
+   },
+   "375": {
+      "Q": "Which practice demands emphasis and action to engage and listen to clients' requirements, issues, concerns, and everyday necessities?",
+      "A": "Service request management",
+      "B": "Service level control",
+      "C": "Supplier oversight",
+      "D": "Service table",
+      "ANS": "A"
+   },
+   "376": {
+      "Q": "Which is interesting in the availability of service components?",
+      "A": "Deliver and help",
+      "B": "Design and shift",
+      "C": "Obtain/build",
+      "D": "Plan",
+      "ANS": "C"
+   },
+   "377": {
+      "Q": "Which is the 1st step when optimizing a service?",
+      "A": "Understand the corporate context",
+      "B": "Implement the modifications",
+      "C": "Agree the coming state",
+      "D": "Assess the present state",
+      "ANS": "A"
+   },
+   "378": {
+      "Q": "Which is a financially valuable part that can donate to a service?",
+      "A": "Service provision",
+      "B": "Configuration object",
+      "C": "IT asset",
+      "D": "Sponsor / boss",
+      "ANS": "C"
+   },
+   "379": {
+      "Q": "What is the buyer of service responsible for?",
+      "A": "utilising the service",
+      "B": "Authorizing the funding for the service",
+      "C": "Defining the requirements for the service",
+      "D": "Prvoide the service",
+      "ANS": "C"
+   },
+   "380": {
+      "Q": "Which word is utilised to represent withdrawing something that could impact a service?",
+      "A": "A trial",
+      "B": "A happening",
+      "C": "A change",
+      "D": "An IT purchase",
+      "ANS": "C"
+   },
+   "381": {
+      "Q": "Which TWO BEST describe the guiding principles? \n1. Short \n2. Benchmarks / Standard \n3. Recommendations / Suggestions \n4. Long",
+      "A": "1 and 2",
+      "B": "1 and 4",
+      "C": "2 and 3",
+      "D": "3 and 4",
+      "ANS": "D"
+   },
+   "382": {
+      "Q": "Which explains the direction of the think and works holistically?",
+      "A": "Breaking down significant initiatives into less pieces of job",
+      "B": "Eliminating disproportionate efforts to deliver useful outcomes",
+      "C": "Considering the current corporate assets before creating something new",
+      "D": "Integrating an organization's actions to deliver value",
+      "ANS": "D"
+   },
+   "383": {
+      "Q": "Identify the missing word in the following sentence A corporation undertaking an improvement initiative should [?] the current processes and services when making for the future.",
+      "A": "Enhance",
+      "B": "Dump",
+      "C": "Re-use",
+      "D": "Consider",
+      "ANS": "D"
+   },
+   "384": {
+      "Q": "What is the distinction between the 'incident management and 'service desk' practices?",
+      "A": "Incident management fixes service operations, the service desk furnishes communication with users",
+      "B": "Incident management manipulates interruptions to services. service desk monitors committed service",
+      "C": "Incident management fixes issues. service desk explores the underlying causes of cases",
+      "D": "Incident management fixes complex issues, and the service desk nails simpler cases",
+      "ANS": "A"
+   },
+   "385": {
+      "Q": "Which stage of the 'continual improvement model' needs to determine measurable targets?",
+      "A": "How do we go there?",
+      "B": "What is the image?",
+      "C": "Where do we want to be?",
+      "D": "Where are we currently?",
+      "ANS": "C"
+   },
+   "386": {
+      "Q": "Which stage of problem management possesses the periodic re-assessment of the validity of workarounds?",
+      "A": "Problem investigation",
+      "B": "Problem designation",
+      "C": "Error control",
+      "D": "Problem governance",
+      "ANS": "C"
+   },
+   "387": {
+      "Q": "What is covered in the goal of the release management practice?",
+      "A": "Approving changes to move",
+      "B": "Moving new software to production conditions",
+      "C": "Ensuring catalog about services is available",
+      "D": "Ensuring details about services is available",
+      "ANS": "D"
+   },
+   "388": {
+      "Q": "Why a service level agreement (SLA) possess bundles of metrics?",
+      "A": "To ensure that all benefits are contained in the service announcements",
+      "B": "To decrease the number of metrics that must to be calculated and written",
+      "C": "To help focus on business outcomes, rather than operating results",
+      "D": "To ensure that the service statuses have been decided with customers",
+      "ANS": "C"
+   },
+   "389": {
+      "Q": "Which four dimensions donate MOST to describing actions needed to deliver services?",
+      "A": "Data and technology",
+      "B": "Partners and vendors",
+      "C": "Value streams and processes",
+      "D": "Organizations and someones",
+      "ANS": "C"
+   },
+   "390": {
+      "Q": "Which of the following balances control of risk with maximizing throughput?",
+      "A": "Incident administration",
+      "B": "Continual advancement",
+      "C": "Problem governance",
+      "D": "Change enablement",
+      "ANS": "D"
+   },
+   "391": {
+      "Q": "Which is recommended as a component of the 'progress iteratively with feedback'?",
+      "A": "Decrease the digit of steps that produce tangible results",
+      "B": "Organize work into small manageable units",
+      "C": "Prohibit changes to projects behind they have been finalized",
+      "D": "Analyse the whole position in detail before taking any action",
+      "ANS": "B"
+   },
+   "392": {
+      "Q": "What is the purpose of the 'continual improvement'?",
+      "A": "Creating cooperative connections with key suppliers to realize new value",
+      "B": "Ensuring that delivery of services is properly considered, scanned, and improved against targets",
+      "C": "Identifying and continually improving connections with and between people",
+      "D": "Aligning the organization's practices and services with changing business needs",
+      "ANS": "D"
+   },
+   "393": {
+      "Q": "How does 'incident management' specify user expectations?",
+      "A": "By using teamwork tools to communicate effectively",
+      "B": "By automated matching of happenings to known errors",
+      "C": "By agreeing and communicating target resolution times",
+      "D": "By assigning help to ensure that all happenings are resolved as quickly as possible",
+      "ANS": "C"
+   },
+   "394": {
+      "Q": "What is a user?",
+      "A": "The role that represents the needs for a service",
+      "B": "The role that allows funding for service consumption",
+      "C": "The role that uses services",
+      "D": "The role that coaches and controls an organization",
+      "ANS": "C"
+   },
+   "395": {
+      "Q": "How does 'continual improvement registers' support to produce value?",
+      "A": "By setting change authorities for change requests",
+      "B": "By entering all improvement ideas in a single place",
+      "C": "By monitoring accomplishment against service level marks",
+      "D": "By making improvements visible",
+      "ANS": "D"
+   },
+   "396": {
+      "Q": "Which information about the inputs and outputs of the value chain activities is Right?",
+      "A": "Each value chain activity receives inputs and provides outputs.",
+      "B": "The organization's management will select the inputs and outputs of each value chain activity",
+      "C": "Some value chain activities solely have inputs. whereas others exclusively have outputs",
+      "D": "Inputs and outputs are specified for each value chain activity.",
+      "ANS": "A"
+   },
+   "397": {
+      "Q": "What is the value of service?",
+      "A": "The benefits, usefulness. or importance as perceived by the stakeholders",
+      "B": "A real or supernatural deliverable of the service",
+      "C": "The amount of cash that is created or kept for the service consumers by using the service",
+      "D": "A result for a stakeholder encouraged by the outputs of the service",
+      "ANS": "A"
+   },
+   "398": {
+      "Q": "Which is the Possible way of resolving major incidents?",
+      "A": "A support group following detailed procedures for examining the incident",
+      "B": "The service desk identifies the reason and a resolution",
+      "C": "Users selecting a solution using self-help",
+      "D": "A temporary team working together to identify a resolution",
+      "ANS": "D"
+   },
+   "399": {
+      "Q": "Which component is concentrated on the activities required by a corps to support its co-create value?",
+      "A": "Service value chain",
+      "B": "Guiding regulations",
+      "C": "Continual advancement",
+      "D": "Practices",
+      "ANS": "A"
+   },
+   "400": {
+      "Q": "Why and how is a service user MOST Possible to reach the service desk?",
+      "A": "To permit an crisis change via live chat",
+      "B": "To request admission to a help via a self service portal",
+      "C": "To discuss the causality of an happening via a phone call",
+      "D": "To report a problem using a mobile app",
+      "ANS": "D"
+   },
+   "401": {
+      "Q": "Which principle suggests using concepts from ITIL, Lean, DevOps, and other references to help guide improvements?",
+      "A": "Focus on weight",
+      "B": "Start from you are",
+      "C": "Optimize and automate",
+      "D": "Think and operate holistically",
+      "ANS": "C"
+   },
+   "402": {
+      "Q": "What is employed as a mechanism to help determine and gauge performance?",
+      "A": "A continual advancement register",
+      "B": "An happening record",
+      "C": "A changing plan",
+      "D": "A service level agreement",
+      "ANS": "D"
+   },
+   "403": {
+      "Q": "Which of the following dimensions is involved with service integration and management?",
+      "A": "Organizations and individuals",
+      "B": "Value streams and methods",
+      "C": "Partners and suppliers",
+      "D": "Data and technology",
+      "ANS": "C"
+   },
+   "404": {
+      "Q": "When using the 'collaborate and promote visibility' principle to an organization's initiative, which is NOT a critical activity?",
+      "A": "Communicating details about the enterprise to other parts of the organization",
+      "B": "Considering different ways of touch for the various audiences",
+      "C": "Ensuring everyone involved in the initiative is in agreement about it before starting",
+      "D": "Basing judgments about the endeavour on visible data",
+      "ANS": "C"
+   },
+   "405": {
+      "Q": "Which practice recognises changes of state connected to infrastructure, benefits and business processes?",
+      "A": "Monitoring and event management",
+      "B": "Transformation enablement",
+      "C": "Service composition management",
+      "D": "Information protection management",
+      "ANS": "A"
+   },
+   "406": {
+      "Q": "What is purpose of 'relationship management' practice?",
+      "A": "Handling all pre-defined. user-initiated assistance requests in an effective and user-friendly manner",
+      "B": "Identifying, analysing, monitoring, and the continual improvement of relationships with stakeholders",
+      "C": "Creating collaborative connections with key suppliers to discover and realize new value",
+      "D": "Setting precise business-based marks so that the delivery of a service can be adequately assessed.",
+      "ANS": "B"
+   },
+   "407": {
+      "Q": "When an organization is considering its current state, it should use [?] to obtain precise measurements",
+      "A": "Threat management techniques",
+      "B": "Hypotheses",
+      "C": "Reports",
+      "D": "Source data",
+      "ANS": "D"
+   },
+   "408": {
+      "Q": "How a process design permits exceptional situations?",
+      "A": "Create rules to handle exceptions generally",
+      "B": "Remove the opportunity for process exceptions",
+      "C": "Create an extra function for each exception",
+      "D": "Include all exception actions in the main function",
+      "ANS": "A"
+   },
+   "409": {
+      "Q": "Which practice requires a good culture to be embedded across the whole organization?",
+      "A": "Continual improvement",
+      "B": "Service group management",
+      "C": "Service demand management",
+      "D": "Change control",
+      "ANS": "A"
+   },
+   "410": {
+      "Q": "Which phrase could refer to a single person who has alone subscribed to a service?",
+      "A": "Organization",
+      "B": "Service table",
+      "C": "Vendors",
+      "D": "Service provider",
+      "ANS": "A"
+   },
+   "411": {
+      "Q": "What is the MOST Plausible cause that incident management would require a temporary team to function together?",
+      "A": "So users can determine their happenings with self-help.",
+      "B": "So customers are equipped with timely updates.",
+      "C": "To escalate an happening to a supplier or partner",
+      "D": "To resolve a complex or major incident",
+      "ANS": "D"
+   },
+   "412": {
+      "Q": "Which of the following would be MOST engaged in assessing the service risk when a supplier adjusts the contract?",
+      "A": "Change enablement",
+      "B": "Incident command",
+      "C": "Service request administration",
+      "D": "Service level direction",
+      "ANS": "A"
+   },
+   "413": {
+      "Q": "Which is MOST Potential to be completed by following a detailed procedure?",
+      "A": "Assessing a difference",
+      "B": "Resolving an happening",
+      "C": "Managing a service request",
+      "D": "Investigating a situation",
+      "ANS": "C"
+   },
+   "414": {
+      "Q": "Which of the following concentrates on roles, responsibilities and systems of authority?",
+      "A": "Members and suppliers",
+      "B": "Organizations and individuals",
+      "C": "Organizations and people",
+      "D": "Data and technology",
+      "ANS": "C"
+   },
+   "415": {
+      "Q": "What is Right about service request management?",
+      "A": "Complicated service request methods should be bypassed.",
+      "B": "Service recommendations can be used to repair service.",
+      "C": "A new approach is needed for each new service request.",
+      "D": "Compliments can be handled as service requests",
+      "ANS": "D"
+   }
+}
